@@ -1,0 +1,2055 @@
+2023-07-05 12:42:02,776 - root - INFO - *************** Test_002_Login *****************
+2023-07-05 12:42:02,776 - root - INFO - **** Started Login DDR test ****
+2023-07-05 12:42:02,777 - root - INFO - ****Opening URL****
+2023-07-05 12:42:07,150 - root - INFO - ****Server Connected to Portal****
+2023-07-05 12:42:12,565 - root - INFO - **** passed ****
+2023-07-05 12:42:12,565 - root - INFO - ******* DDT Login test passed **********
+2023-07-05 12:42:12,655 - root - INFO - ******* End of Login DDT Test **********
+2023-07-05 12:42:12,655 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-05 12:43:05,769 - root - INFO - *************** Test_002_Login *****************
+2023-07-05 12:43:05,769 - root - INFO - **** Started Login DDR test ****
+2023-07-05 12:43:05,770 - root - INFO - ****Opening URL****
+2023-07-05 12:43:09,713 - root - INFO - ****Server Connected to Portal****
+2023-07-05 12:43:15,121 - root - INFO - **** passed ****
+2023-07-05 12:43:15,121 - root - INFO - ******* DDT Login test passed **********
+2023-07-05 12:43:15,200 - root - INFO - ******* End of Login DDT Test **********
+2023-07-05 12:43:15,200 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-05 13:54:05,027 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 13:54:05,027 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 13:54:05,028 - root - INFO - **** Started Home page title test ****
+2023-07-05 13:54:05,028 - root - INFO - **** Started Home page title test ****
+2023-07-05 13:54:05,028 - root - INFO - ****Opening URL****
+2023-07-05 13:54:05,028 - root - INFO - ****Opening URL****
+2023-07-05 13:54:05,909 - root - INFO - **** Home page title test passed ****
+2023-07-05 13:54:05,909 - root - INFO - **** Home page title test passed ****
+2023-07-05 13:54:07,522 - root - INFO - **** Started Connect Server test ****
+2023-07-05 13:54:07,522 - root - INFO - **** Started Connect Server test ****
+2023-07-05 13:54:07,522 - root - INFO - ****Opening URL****
+2023-07-05 13:54:07,522 - root - INFO - ****Opening URL****
+2023-07-05 13:54:08,173 - root - INFO - ****Setting Port Number****
+2023-07-05 13:54:08,173 - root - INFO - ****Setting Port Number****
+2023-07-05 13:54:08,381 - root - INFO - ****Connect Button Clicked****
+2023-07-05 13:54:08,381 - root - INFO - ****Connect Button Clicked****
+2023-07-05 13:54:08,469 - root - INFO - ****Check Login Tag****
+2023-07-05 13:54:08,469 - root - INFO - ****Check Login Tag****
+2023-07-05 13:54:08,484 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 13:54:08,484 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 13:54:10,002 - root - INFO - **** Started Login test ****
+2023-07-05 13:54:10,002 - root - INFO - **** Started Login test ****
+2023-07-05 13:54:10,002 - root - INFO - ****Opening URL****
+2023-07-05 13:54:10,002 - root - INFO - ****Opening URL****
+2023-07-05 13:54:14,116 - root - INFO - ****Server Connected to Portal****
+2023-07-05 13:54:14,116 - root - INFO - ****Server Connected to Portal****
+2023-07-05 13:54:14,276 - root - INFO - ****Setting username****
+2023-07-05 13:54:14,276 - root - INFO - ****Setting username****
+2023-07-05 13:54:20,418 - root - INFO - ****Setting password****
+2023-07-05 13:54:20,418 - root - INFO - ****Setting password****
+2023-07-05 13:54:20,498 - root - INFO - ****Requesting to Login****
+2023-07-05 13:54:20,498 - root - INFO - ****Requesting to Login****
+2023-07-05 13:54:23,498 - root - INFO - ****Retrieving Current URL****
+2023-07-05 13:54:23,498 - root - INFO - ****Retrieving Current URL****
+2023-07-05 13:54:23,498 - root - INFO - ****Login Test Passed****
+2023-07-05 13:54:23,498 - root - INFO - ****Login Test Passed****
+2023-07-05 13:54:28,523 - root - INFO - ****Login Successfully***
+2023-07-05 13:54:28,523 - root - INFO - ****Login Successfully***
+2023-07-05 13:54:30,640 - root - INFO - ****Logout Successfully***
+2023-07-05 13:54:30,640 - root - INFO - ****Logout Successfully***
+2023-07-05 14:02:34,823 - root - INFO - *************** Test_002_Login *****************
+2023-07-05 14:02:34,824 - root - INFO - **** Started Login DDR test ****
+2023-07-05 14:02:34,824 - root - INFO - ****Opening URL****
+2023-07-05 14:02:38,850 - root - INFO - ****Server Connected to Portal****
+2023-07-05 14:02:40,285 - root - INFO - **** passed ****
+2023-07-05 14:02:40,285 - root - INFO - ******* DDT Login test passed **********
+2023-07-05 14:02:40,388 - root - INFO - ******* End of Login DDT Test **********
+2023-07-05 14:02:40,388 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-05 14:06:55,961 - root - INFO - *************** Test_002_Login *****************
+2023-07-05 14:06:55,961 - root - INFO - **** Started Login DDR test ****
+2023-07-05 14:06:55,961 - root - INFO - ****Opening URL****
+2023-07-05 14:06:59,995 - root - INFO - ****Server Connected to Portal****
+2023-07-05 14:07:01,409 - root - INFO - **** passed ****
+2023-07-05 14:14:45,425 - root - INFO - *************** Test_002_Login *****************
+2023-07-05 14:14:45,425 - root - INFO - **** Started Login DDR test ****
+2023-07-05 14:14:45,426 - root - INFO - ****Opening URL****
+2023-07-05 14:14:47,501 - root - INFO - ****Server Connected to Portal****
+2023-07-05 14:14:49,017 - root - INFO - **** passed ****
+2023-07-05 14:14:50,812 - root - INFO - **** passed ****
+2023-07-05 14:14:52,293 - root - INFO - **** passed ****
+2023-07-05 14:14:53,623 - root - INFO - **** passed ****
+2023-07-05 14:14:55,236 - root - INFO - **** passed ****
+2023-07-05 14:14:55,236 - root - INFO - ******* DDT Login test passed **********
+2023-07-05 14:14:55,320 - root - INFO - ******* End of Login DDT Test **********
+2023-07-05 14:14:55,320 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-05 15:11:40,958 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:11:40,958 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:11:40,958 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:11:40,958 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:11:40,958 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:11:40,958 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:11:40,959 - root - INFO - ****Opening URL****
+2023-07-05 15:11:40,959 - root - INFO - ****Opening URL****
+2023-07-05 15:11:40,959 - root - INFO - ****Opening URL****
+2023-07-05 15:11:41,811 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:11:41,811 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:11:41,811 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:11:43,340 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:11:43,340 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:11:43,340 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:11:43,340 - root - INFO - ****Opening URL****
+2023-07-05 15:11:43,340 - root - INFO - ****Opening URL****
+2023-07-05 15:11:43,340 - root - INFO - ****Opening URL****
+2023-07-05 15:11:43,961 - root - INFO - ****Setting Port Number****
+2023-07-05 15:11:43,961 - root - INFO - ****Setting Port Number****
+2023-07-05 15:11:43,961 - root - INFO - ****Setting Port Number****
+2023-07-05 15:11:44,305 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:11:44,305 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:11:44,305 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:11:44,424 - root - INFO - ****Check Login Tag****
+2023-07-05 15:11:44,424 - root - INFO - ****Check Login Tag****
+2023-07-05 15:11:44,424 - root - INFO - ****Check Login Tag****
+2023-07-05 15:11:44,443 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:11:44,443 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:11:44,443 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:11:45,861 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:11:45,861 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:11:45,861 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:11:45,861 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:11:45,861 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:11:45,861 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:11:45,861 - root - INFO - ****Opening URL****
+2023-07-05 15:11:45,861 - root - INFO - ****Opening URL****
+2023-07-05 15:11:45,861 - root - INFO - ****Opening URL****
+2023-07-05 15:11:46,570 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:11:46,570 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:11:46,570 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:11:47,988 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:11:47,988 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:11:47,988 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:11:47,989 - root - INFO - ****Opening URL****
+2023-07-05 15:11:47,989 - root - INFO - ****Opening URL****
+2023-07-05 15:11:47,989 - root - INFO - ****Opening URL****
+2023-07-05 15:11:48,750 - root - INFO - ****Setting Port Number****
+2023-07-05 15:11:48,750 - root - INFO - ****Setting Port Number****
+2023-07-05 15:11:48,750 - root - INFO - ****Setting Port Number****
+2023-07-05 15:11:49,022 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:11:49,022 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:11:49,022 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:11:49,123 - root - INFO - ****Check Login Tag****
+2023-07-05 15:11:49,123 - root - INFO - ****Check Login Tag****
+2023-07-05 15:11:49,123 - root - INFO - ****Check Login Tag****
+2023-07-05 15:11:49,139 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:11:49,139 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:11:49,139 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:15:41,955 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:15:41,955 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:15:41,955 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:15:41,956 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:15:41,956 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:15:41,956 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:15:41,956 - root - INFO - ****Opening URL****
+2023-07-05 15:15:41,956 - root - INFO - ****Opening URL****
+2023-07-05 15:15:41,956 - root - INFO - ****Opening URL****
+2023-07-05 15:15:42,612 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:15:42,612 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:15:42,612 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:15:44,125 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:15:44,125 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:15:44,125 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:15:44,125 - root - INFO - ****Opening URL****
+2023-07-05 15:15:44,125 - root - INFO - ****Opening URL****
+2023-07-05 15:15:44,125 - root - INFO - ****Opening URL****
+2023-07-05 15:15:44,843 - root - INFO - ****Setting Port Number****
+2023-07-05 15:15:44,843 - root - INFO - ****Setting Port Number****
+2023-07-05 15:15:44,843 - root - INFO - ****Setting Port Number****
+2023-07-05 15:15:45,141 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:15:45,141 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:15:45,141 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:15:45,254 - root - INFO - ****Check Login Tag****
+2023-07-05 15:15:45,254 - root - INFO - ****Check Login Tag****
+2023-07-05 15:15:45,254 - root - INFO - ****Check Login Tag****
+2023-07-05 15:15:45,270 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:15:45,270 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:15:45,270 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:15:46,700 - root - INFO - **** Started Login test ****
+2023-07-05 15:15:46,700 - root - INFO - **** Started Login test ****
+2023-07-05 15:15:46,700 - root - INFO - **** Started Login test ****
+2023-07-05 15:15:46,700 - root - INFO - ****Opening URL****
+2023-07-05 15:15:46,700 - root - INFO - ****Opening URL****
+2023-07-05 15:15:46,700 - root - INFO - ****Opening URL****
+2023-07-05 15:15:50,792 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:15:50,792 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:15:50,792 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:15:50,945 - root - INFO - ****Setting username****
+2023-07-05 15:15:50,945 - root - INFO - ****Setting username****
+2023-07-05 15:15:50,945 - root - INFO - ****Setting username****
+2023-07-05 15:15:57,120 - root - INFO - ****Setting password****
+2023-07-05 15:15:57,120 - root - INFO - ****Setting password****
+2023-07-05 15:15:57,120 - root - INFO - ****Setting password****
+2023-07-05 15:15:57,195 - root - INFO - ****Requesting to Login****
+2023-07-05 15:15:57,195 - root - INFO - ****Requesting to Login****
+2023-07-05 15:15:57,195 - root - INFO - ****Requesting to Login****
+2023-07-05 15:16:00,196 - root - INFO - ****Retrieving Current URL****
+2023-07-05 15:16:00,196 - root - INFO - ****Retrieving Current URL****
+2023-07-05 15:16:00,196 - root - INFO - ****Retrieving Current URL****
+2023-07-05 15:16:00,196 - root - INFO - ****Login Test Passed****
+2023-07-05 15:16:00,196 - root - INFO - ****Login Test Passed****
+2023-07-05 15:16:00,196 - root - INFO - ****Login Test Passed****
+2023-07-05 15:16:01,698 - root - INFO - *************** Test_002_Login *****************
+2023-07-05 15:16:01,698 - root - INFO - *************** Test_002_Login *****************
+2023-07-05 15:16:01,698 - root - INFO - *************** Test_002_Login *****************
+2023-07-05 15:16:01,699 - root - INFO - **** Started Login DDR test ****
+2023-07-05 15:16:01,699 - root - INFO - **** Started Login DDR test ****
+2023-07-05 15:16:01,699 - root - INFO - **** Started Login DDR test ****
+2023-07-05 15:16:01,699 - root - INFO - ****Opening URL****
+2023-07-05 15:16:01,699 - root - INFO - ****Opening URL****
+2023-07-05 15:16:01,699 - root - INFO - ****Opening URL****
+2023-07-05 15:16:03,787 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:16:03,787 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:16:03,787 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:16:05,222 - root - INFO - **** passed ****
+2023-07-05 15:16:05,222 - root - INFO - **** passed ****
+2023-07-05 15:16:05,222 - root - INFO - **** passed ****
+2023-07-05 15:16:07,012 - root - INFO - **** passed ****
+2023-07-05 15:16:07,012 - root - INFO - **** passed ****
+2023-07-05 15:16:07,012 - root - INFO - **** passed ****
+2023-07-05 15:16:08,404 - root - INFO - **** passed ****
+2023-07-05 15:16:08,404 - root - INFO - **** passed ****
+2023-07-05 15:16:08,404 - root - INFO - **** passed ****
+2023-07-05 15:16:09,787 - root - INFO - **** passed ****
+2023-07-05 15:16:09,787 - root - INFO - **** passed ****
+2023-07-05 15:16:09,787 - root - INFO - **** passed ****
+2023-07-05 15:16:11,387 - root - INFO - **** passed ****
+2023-07-05 15:16:11,387 - root - INFO - **** passed ****
+2023-07-05 15:16:11,387 - root - INFO - **** passed ****
+2023-07-05 15:16:11,387 - root - INFO - ******* DDT Login test passed **********
+2023-07-05 15:16:11,387 - root - INFO - ******* DDT Login test passed **********
+2023-07-05 15:16:11,387 - root - INFO - ******* DDT Login test passed **********
+2023-07-05 15:16:11,471 - root - INFO - ******* End of Login DDT Test **********
+2023-07-05 15:16:11,471 - root - INFO - ******* End of Login DDT Test **********
+2023-07-05 15:16:11,471 - root - INFO - ******* End of Login DDT Test **********
+2023-07-05 15:16:11,471 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-05 15:16:11,471 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-05 15:16:11,471 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-05 15:16:12,866 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:16:12,866 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:16:12,866 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:16:12,867 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:16:12,867 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:16:12,867 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:16:12,867 - root - INFO - ****Opening URL****
+2023-07-05 15:16:12,867 - root - INFO - ****Opening URL****
+2023-07-05 15:16:12,867 - root - INFO - ****Opening URL****
+2023-07-05 15:16:13,672 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:16:13,672 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:16:13,672 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:16:15,108 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:16:15,108 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:16:15,108 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:16:15,108 - root - INFO - ****Opening URL****
+2023-07-05 15:16:15,108 - root - INFO - ****Opening URL****
+2023-07-05 15:16:15,108 - root - INFO - ****Opening URL****
+2023-07-05 15:16:15,789 - root - INFO - ****Setting Port Number****
+2023-07-05 15:16:15,789 - root - INFO - ****Setting Port Number****
+2023-07-05 15:16:15,789 - root - INFO - ****Setting Port Number****
+2023-07-05 15:16:16,045 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:16:16,045 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:16:16,045 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:16:16,145 - root - INFO - ****Check Login Tag****
+2023-07-05 15:16:16,145 - root - INFO - ****Check Login Tag****
+2023-07-05 15:16:16,145 - root - INFO - ****Check Login Tag****
+2023-07-05 15:16:16,162 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:16:16,162 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:16:16,162 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:16:17,670 - root - INFO - **** Started Login test ****
+2023-07-05 15:16:17,670 - root - INFO - **** Started Login test ****
+2023-07-05 15:16:17,670 - root - INFO - **** Started Login test ****
+2023-07-05 15:16:17,670 - root - INFO - ****Opening URL****
+2023-07-05 15:16:17,670 - root - INFO - ****Opening URL****
+2023-07-05 15:16:17,670 - root - INFO - ****Opening URL****
+2023-07-05 15:16:21,737 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:16:21,737 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:16:21,737 - root - INFO - ****Server Connected to Portal****
+2023-07-05 15:16:21,905 - root - INFO - ****Setting username****
+2023-07-05 15:16:21,905 - root - INFO - ****Setting username****
+2023-07-05 15:16:21,905 - root - INFO - ****Setting username****
+2023-07-05 15:16:28,062 - root - INFO - ****Setting password****
+2023-07-05 15:16:28,062 - root - INFO - ****Setting password****
+2023-07-05 15:16:28,062 - root - INFO - ****Setting password****
+2023-07-05 15:16:28,163 - root - INFO - ****Requesting to Login****
+2023-07-05 15:16:28,163 - root - INFO - ****Requesting to Login****
+2023-07-05 15:16:28,163 - root - INFO - ****Requesting to Login****
+2023-07-05 15:16:31,164 - root - INFO - ****Retrieving Current URL****
+2023-07-05 15:16:31,164 - root - INFO - ****Retrieving Current URL****
+2023-07-05 15:16:31,164 - root - INFO - ****Retrieving Current URL****
+2023-07-05 15:16:31,164 - root - INFO - ****Login Test Passed****
+2023-07-05 15:16:31,164 - root - INFO - ****Login Test Passed****
+2023-07-05 15:16:31,164 - root - INFO - ****Login Test Passed****
+2023-07-05 15:16:36,060 - root - INFO - ****Login Successfully***
+2023-07-05 15:16:36,060 - root - INFO - ****Login Successfully***
+2023-07-05 15:16:36,060 - root - INFO - ****Login Successfully***
+2023-07-05 15:16:38,186 - root - INFO - ****Logout Successfully***
+2023-07-05 15:16:38,186 - root - INFO - ****Logout Successfully***
+2023-07-05 15:16:38,186 - root - INFO - ****Logout Successfully***
+2023-07-05 15:41:25,258 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:41:25,258 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:41:25,258 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:41:25,259 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:41:25,259 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:41:25,259 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:41:25,259 - root - INFO - ****Opening URL****
+2023-07-05 15:41:25,259 - root - INFO - ****Opening URL****
+2023-07-05 15:41:25,259 - root - INFO - ****Opening URL****
+2023-07-05 15:41:26,132 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:41:26,132 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:41:26,132 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:41:27,736 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:41:27,736 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:41:27,736 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:41:27,736 - root - INFO - ****Opening URL****
+2023-07-05 15:41:27,736 - root - INFO - ****Opening URL****
+2023-07-05 15:41:27,736 - root - INFO - ****Opening URL****
+2023-07-05 15:41:28,415 - root - INFO - ****Setting Port Number****
+2023-07-05 15:41:28,415 - root - INFO - ****Setting Port Number****
+2023-07-05 15:41:28,415 - root - INFO - ****Setting Port Number****
+2023-07-05 15:41:28,658 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:41:28,658 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:41:28,658 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:41:28,772 - root - INFO - ****Check Login Tag****
+2023-07-05 15:41:28,772 - root - INFO - ****Check Login Tag****
+2023-07-05 15:41:28,772 - root - INFO - ****Check Login Tag****
+2023-07-05 15:41:28,791 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:41:28,791 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:41:28,791 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:41:30,396 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:41:30,396 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:41:30,396 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:41:30,396 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:41:30,396 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:41:30,396 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:41:30,396 - root - INFO - ****Opening URL****
+2023-07-05 15:41:30,396 - root - INFO - ****Opening URL****
+2023-07-05 15:41:30,396 - root - INFO - ****Opening URL****
+2023-07-05 15:41:31,065 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:41:31,065 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:41:31,065 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:41:32,623 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:41:32,623 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:41:32,623 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:41:32,624 - root - INFO - ****Opening URL****
+2023-07-05 15:41:32,624 - root - INFO - ****Opening URL****
+2023-07-05 15:41:32,624 - root - INFO - ****Opening URL****
+2023-07-05 15:41:33,316 - root - INFO - ****Setting Port Number****
+2023-07-05 15:41:33,316 - root - INFO - ****Setting Port Number****
+2023-07-05 15:41:33,316 - root - INFO - ****Setting Port Number****
+2023-07-05 15:41:33,590 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:41:33,590 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:41:33,590 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:41:33,685 - root - INFO - ****Check Login Tag****
+2023-07-05 15:41:33,685 - root - INFO - ****Check Login Tag****
+2023-07-05 15:41:33,685 - root - INFO - ****Check Login Tag****
+2023-07-05 15:41:33,703 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:41:33,703 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:41:33,703 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:43:25,918 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:43:25,918 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:43:25,918 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:43:25,919 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:43:25,919 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:43:25,919 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:43:25,919 - root - INFO - ****Opening URL****
+2023-07-05 15:43:25,919 - root - INFO - ****Opening URL****
+2023-07-05 15:43:25,919 - root - INFO - ****Opening URL****
+2023-07-05 15:43:26,651 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:43:26,651 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:43:26,651 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:43:28,163 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:43:28,163 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:43:28,163 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:43:28,163 - root - INFO - ****Opening URL****
+2023-07-05 15:43:28,163 - root - INFO - ****Opening URL****
+2023-07-05 15:43:28,163 - root - INFO - ****Opening URL****
+2023-07-05 15:43:28,840 - root - INFO - ****Setting Port Number****
+2023-07-05 15:43:28,840 - root - INFO - ****Setting Port Number****
+2023-07-05 15:43:28,840 - root - INFO - ****Setting Port Number****
+2023-07-05 15:43:29,111 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:43:29,111 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:43:29,111 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:43:29,221 - root - INFO - ****Check Login Tag****
+2023-07-05 15:43:29,221 - root - INFO - ****Check Login Tag****
+2023-07-05 15:43:29,221 - root - INFO - ****Check Login Tag****
+2023-07-05 15:43:29,238 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:43:29,238 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:43:29,238 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:43:30,800 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:43:30,800 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:43:30,800 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:43:30,801 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:43:30,801 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:43:30,801 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:43:30,801 - root - INFO - ****Opening URL****
+2023-07-05 15:43:30,801 - root - INFO - ****Opening URL****
+2023-07-05 15:43:30,801 - root - INFO - ****Opening URL****
+2023-07-05 15:43:31,552 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:43:31,552 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:43:31,552 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:43:33,041 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:43:33,041 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:43:33,041 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:43:33,041 - root - INFO - ****Opening URL****
+2023-07-05 15:43:33,041 - root - INFO - ****Opening URL****
+2023-07-05 15:43:33,041 - root - INFO - ****Opening URL****
+2023-07-05 15:43:33,749 - root - INFO - ****Setting Port Number****
+2023-07-05 15:43:33,749 - root - INFO - ****Setting Port Number****
+2023-07-05 15:43:33,749 - root - INFO - ****Setting Port Number****
+2023-07-05 15:43:34,065 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:43:34,065 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:43:34,065 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:43:34,185 - root - INFO - ****Check Login Tag****
+2023-07-05 15:43:34,185 - root - INFO - ****Check Login Tag****
+2023-07-05 15:43:34,185 - root - INFO - ****Check Login Tag****
+2023-07-05 15:43:34,212 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:43:34,212 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:43:34,212 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:46:22,982 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:46:22,982 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:46:22,982 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:46:22,983 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:46:22,983 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:46:22,983 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:46:22,983 - root - INFO - ****Opening URL****
+2023-07-05 15:46:22,983 - root - INFO - ****Opening URL****
+2023-07-05 15:46:22,983 - root - INFO - ****Opening URL****
+2023-07-05 15:46:23,626 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:46:23,626 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:46:23,626 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:46:25,244 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:46:25,244 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:46:25,244 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:46:25,245 - root - INFO - ****Opening URL****
+2023-07-05 15:46:25,245 - root - INFO - ****Opening URL****
+2023-07-05 15:46:25,245 - root - INFO - ****Opening URL****
+2023-07-05 15:46:25,928 - root - INFO - ****Setting Port Number****
+2023-07-05 15:46:25,928 - root - INFO - ****Setting Port Number****
+2023-07-05 15:46:25,928 - root - INFO - ****Setting Port Number****
+2023-07-05 15:46:26,205 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:46:26,205 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:46:26,205 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:46:26,318 - root - INFO - ****Check Login Tag****
+2023-07-05 15:46:26,318 - root - INFO - ****Check Login Tag****
+2023-07-05 15:46:26,318 - root - INFO - ****Check Login Tag****
+2023-07-05 15:46:26,339 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:46:26,339 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:46:26,339 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:46:27,909 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:46:27,909 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:46:27,909 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:46:27,910 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:46:27,910 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:46:27,910 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:46:27,910 - root - INFO - ****Opening URL****
+2023-07-05 15:46:27,910 - root - INFO - ****Opening URL****
+2023-07-05 15:46:27,910 - root - INFO - ****Opening URL****
+2023-07-05 15:46:28,606 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:46:28,606 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:46:28,606 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:46:30,113 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:46:30,113 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:46:30,113 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:46:30,114 - root - INFO - ****Opening URL****
+2023-07-05 15:46:30,114 - root - INFO - ****Opening URL****
+2023-07-05 15:46:30,114 - root - INFO - ****Opening URL****
+2023-07-05 15:46:30,794 - root - INFO - ****Setting Port Number****
+2023-07-05 15:46:30,794 - root - INFO - ****Setting Port Number****
+2023-07-05 15:46:30,794 - root - INFO - ****Setting Port Number****
+2023-07-05 15:46:31,034 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:46:31,034 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:46:31,034 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:46:31,154 - root - INFO - ****Check Login Tag****
+2023-07-05 15:46:31,154 - root - INFO - ****Check Login Tag****
+2023-07-05 15:46:31,154 - root - INFO - ****Check Login Tag****
+2023-07-05 15:46:31,182 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:46:31,182 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:46:31,182 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:48:02,416 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:48:02,416 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:48:02,416 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:48:02,416 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:48:02,416 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:48:02,416 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:48:02,417 - root - INFO - ****Opening URL****
+2023-07-05 15:48:02,417 - root - INFO - ****Opening URL****
+2023-07-05 15:48:02,417 - root - INFO - ****Opening URL****
+2023-07-05 15:48:03,100 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:48:03,100 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:48:03,100 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:48:04,524 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:48:04,524 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:48:04,524 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:48:04,524 - root - INFO - ****Opening URL****
+2023-07-05 15:48:04,524 - root - INFO - ****Opening URL****
+2023-07-05 15:48:04,524 - root - INFO - ****Opening URL****
+2023-07-05 15:48:05,176 - root - INFO - ****Setting Port Number****
+2023-07-05 15:48:05,176 - root - INFO - ****Setting Port Number****
+2023-07-05 15:48:05,176 - root - INFO - ****Setting Port Number****
+2023-07-05 15:48:05,504 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:48:05,504 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:48:05,504 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:48:05,618 - root - INFO - ****Check Login Tag****
+2023-07-05 15:48:05,618 - root - INFO - ****Check Login Tag****
+2023-07-05 15:48:05,618 - root - INFO - ****Check Login Tag****
+2023-07-05 15:48:05,645 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:48:05,645 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:48:05,645 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:48:07,193 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:48:07,193 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:48:07,193 - root - INFO - *************** Test_001_Login *****************
+2023-07-05 15:48:07,193 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:48:07,193 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:48:07,193 - root - INFO - **** Started Home page title test ****
+2023-07-05 15:48:07,193 - root - INFO - ****Opening URL****
+2023-07-05 15:48:07,193 - root - INFO - ****Opening URL****
+2023-07-05 15:48:07,193 - root - INFO - ****Opening URL****
+2023-07-05 15:48:07,887 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:48:07,887 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:48:07,887 - root - INFO - **** Home page title test passed ****
+2023-07-05 15:48:09,372 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:48:09,372 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:48:09,372 - root - INFO - **** Started Connect Server test ****
+2023-07-05 15:48:09,373 - root - INFO - ****Opening URL****
+2023-07-05 15:48:09,373 - root - INFO - ****Opening URL****
+2023-07-05 15:48:09,373 - root - INFO - ****Opening URL****
+2023-07-05 15:48:10,030 - root - INFO - ****Setting Port Number****
+2023-07-05 15:48:10,030 - root - INFO - ****Setting Port Number****
+2023-07-05 15:48:10,030 - root - INFO - ****Setting Port Number****
+2023-07-05 15:48:10,381 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:48:10,381 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:48:10,381 - root - INFO - ****Connect Button Clicked****
+2023-07-05 15:48:10,480 - root - INFO - ****Check Login Tag****
+2023-07-05 15:48:10,480 - root - INFO - ****Check Login Tag****
+2023-07-05 15:48:10,480 - root - INFO - ****Check Login Tag****
+2023-07-05 15:48:10,502 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:48:10,502 - root - INFO - ****Connect to Server Test Pass****
+2023-07-05 15:48:10,502 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:40:40,874 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:40:40,874 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:40:40,874 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:40:40,875 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:40:40,875 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:40:40,875 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:40:40,876 - root - INFO - ****Opening URL****
+2023-07-06 23:40:40,876 - root - INFO - ****Opening URL****
+2023-07-06 23:40:40,876 - root - INFO - ****Opening URL****
+2023-07-06 23:40:41,594 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:40:41,594 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:40:41,594 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:40:43,878 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:40:43,878 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:40:43,878 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:40:43,879 - root - INFO - ****Opening URL****
+2023-07-06 23:40:43,879 - root - INFO - ****Opening URL****
+2023-07-06 23:40:43,879 - root - INFO - ****Opening URL****
+2023-07-06 23:40:44,336 - root - INFO - ****Setting Port Number****
+2023-07-06 23:40:44,336 - root - INFO - ****Setting Port Number****
+2023-07-06 23:40:44,336 - root - INFO - ****Setting Port Number****
+2023-07-06 23:40:44,542 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:40:44,542 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:40:44,542 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:40:44,606 - root - INFO - ****Check Login Tag****
+2023-07-06 23:40:44,606 - root - INFO - ****Check Login Tag****
+2023-07-06 23:40:44,606 - root - INFO - ****Check Login Tag****
+2023-07-06 23:40:44,619 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:40:44,619 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:40:44,619 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:40:46,748 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:40:46,748 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:40:46,748 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:40:46,749 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:40:46,749 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:40:46,749 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:40:46,750 - root - INFO - ****Opening URL****
+2023-07-06 23:40:46,750 - root - INFO - ****Opening URL****
+2023-07-06 23:40:46,750 - root - INFO - ****Opening URL****
+2023-07-06 23:40:47,313 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:40:47,313 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:40:47,313 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:40:49,475 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:40:49,475 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:40:49,475 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:40:49,475 - root - INFO - ****Opening URL****
+2023-07-06 23:40:49,475 - root - INFO - ****Opening URL****
+2023-07-06 23:40:49,475 - root - INFO - ****Opening URL****
+2023-07-06 23:40:49,985 - root - INFO - ****Setting Port Number****
+2023-07-06 23:40:49,985 - root - INFO - ****Setting Port Number****
+2023-07-06 23:40:49,985 - root - INFO - ****Setting Port Number****
+2023-07-06 23:40:50,192 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:40:50,192 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:40:50,192 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:40:50,260 - root - INFO - ****Check Login Tag****
+2023-07-06 23:40:50,260 - root - INFO - ****Check Login Tag****
+2023-07-06 23:40:50,260 - root - INFO - ****Check Login Tag****
+2023-07-06 23:40:50,272 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:40:50,272 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:40:50,272 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:42:24,214 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:42:24,214 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:42:24,214 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:42:24,215 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:42:24,215 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:42:24,215 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:42:24,215 - root - INFO - ****Opening URL****
+2023-07-06 23:42:24,215 - root - INFO - ****Opening URL****
+2023-07-06 23:42:24,215 - root - INFO - ****Opening URL****
+2023-07-06 23:42:24,745 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:42:24,745 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:42:24,745 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:42:26,868 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:42:26,868 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:42:26,868 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:42:26,870 - root - INFO - ****Opening URL****
+2023-07-06 23:42:26,870 - root - INFO - ****Opening URL****
+2023-07-06 23:42:26,870 - root - INFO - ****Opening URL****
+2023-07-06 23:42:27,382 - root - INFO - ****Setting Port Number****
+2023-07-06 23:42:27,382 - root - INFO - ****Setting Port Number****
+2023-07-06 23:42:27,382 - root - INFO - ****Setting Port Number****
+2023-07-06 23:42:27,603 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:42:27,603 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:42:27,603 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:42:27,677 - root - INFO - ****Check Login Tag****
+2023-07-06 23:42:27,677 - root - INFO - ****Check Login Tag****
+2023-07-06 23:42:27,677 - root - INFO - ****Check Login Tag****
+2023-07-06 23:42:27,691 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:42:27,691 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:42:27,691 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:42:29,698 - root - INFO - **** Started Login test ****
+2023-07-06 23:42:29,698 - root - INFO - **** Started Login test ****
+2023-07-06 23:42:29,698 - root - INFO - **** Started Login test ****
+2023-07-06 23:42:29,699 - root - INFO - ****Opening URL****
+2023-07-06 23:42:29,699 - root - INFO - ****Opening URL****
+2023-07-06 23:42:29,699 - root - INFO - ****Opening URL****
+2023-07-06 23:42:33,474 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:42:33,474 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:42:33,474 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:42:33,695 - root - INFO - ****Setting username****
+2023-07-06 23:42:33,695 - root - INFO - ****Setting username****
+2023-07-06 23:42:33,695 - root - INFO - ****Setting username****
+2023-07-06 23:42:39,798 - root - INFO - ****Setting password****
+2023-07-06 23:42:39,798 - root - INFO - ****Setting password****
+2023-07-06 23:42:39,798 - root - INFO - ****Setting password****
+2023-07-06 23:42:39,843 - root - INFO - ****Requesting to Login****
+2023-07-06 23:42:39,843 - root - INFO - ****Requesting to Login****
+2023-07-06 23:42:39,843 - root - INFO - ****Requesting to Login****
+2023-07-06 23:42:42,845 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:42:42,845 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:42:42,845 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:42:42,856 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:42:42,856 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:42:42,856 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:42:42,984 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:42:42,984 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:42:42,984 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:42:45,214 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:42:45,214 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:42:45,214 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:42:45,215 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:42:45,215 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:42:45,215 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:42:45,215 - root - INFO - ****Opening URL****
+2023-07-06 23:42:45,215 - root - INFO - ****Opening URL****
+2023-07-06 23:42:45,215 - root - INFO - ****Opening URL****
+2023-07-06 23:42:46,944 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:42:46,944 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:42:46,944 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:42:48,205 - root - INFO - **** failed ****
+2023-07-06 23:42:48,205 - root - INFO - **** failed ****
+2023-07-06 23:42:48,205 - root - INFO - **** failed ****
+2023-07-06 23:42:51,331 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:42:51,331 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:42:51,331 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:42:51,331 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:42:51,331 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:42:51,331 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:42:51,331 - root - INFO - ****Opening URL****
+2023-07-06 23:42:51,331 - root - INFO - ****Opening URL****
+2023-07-06 23:42:51,331 - root - INFO - ****Opening URL****
+2023-07-06 23:42:51,912 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:42:51,912 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:42:51,912 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:42:54,076 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:42:54,076 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:42:54,076 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:42:54,076 - root - INFO - ****Opening URL****
+2023-07-06 23:42:54,076 - root - INFO - ****Opening URL****
+2023-07-06 23:42:54,076 - root - INFO - ****Opening URL****
+2023-07-06 23:42:54,607 - root - INFO - ****Setting Port Number****
+2023-07-06 23:42:54,607 - root - INFO - ****Setting Port Number****
+2023-07-06 23:42:54,607 - root - INFO - ****Setting Port Number****
+2023-07-06 23:42:54,832 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:42:54,832 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:42:54,832 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:42:54,894 - root - INFO - ****Check Login Tag****
+2023-07-06 23:42:54,894 - root - INFO - ****Check Login Tag****
+2023-07-06 23:42:54,894 - root - INFO - ****Check Login Tag****
+2023-07-06 23:42:54,909 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:42:54,909 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:42:54,909 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:42:56,983 - root - INFO - **** Started Login test ****
+2023-07-06 23:42:56,983 - root - INFO - **** Started Login test ****
+2023-07-06 23:42:56,983 - root - INFO - **** Started Login test ****
+2023-07-06 23:42:56,983 - root - INFO - ****Opening URL****
+2023-07-06 23:42:56,983 - root - INFO - ****Opening URL****
+2023-07-06 23:42:56,983 - root - INFO - ****Opening URL****
+2023-07-06 23:43:00,643 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:43:00,643 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:43:00,643 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:43:00,739 - root - INFO - ****Setting username****
+2023-07-06 23:43:00,739 - root - INFO - ****Setting username****
+2023-07-06 23:43:00,739 - root - INFO - ****Setting username****
+2023-07-06 23:43:06,866 - root - INFO - ****Setting password****
+2023-07-06 23:43:06,866 - root - INFO - ****Setting password****
+2023-07-06 23:43:06,866 - root - INFO - ****Setting password****
+2023-07-06 23:43:06,913 - root - INFO - ****Requesting to Login****
+2023-07-06 23:43:06,913 - root - INFO - ****Requesting to Login****
+2023-07-06 23:43:06,913 - root - INFO - ****Requesting to Login****
+2023-07-06 23:43:09,915 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:43:09,915 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:43:09,915 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:43:09,922 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:43:09,922 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:43:09,922 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:43:10,018 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:43:10,018 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:43:10,018 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:43:15,128 - root - ERROR - ****Login  Failed****
+2023-07-06 23:43:15,128 - root - ERROR - ****Login  Failed****
+2023-07-06 23:43:15,128 - root - ERROR - ****Login  Failed****
+2023-07-06 23:43:15,265 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:43:15,265 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:43:15,265 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:51:37,321 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:51:37,321 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:51:37,321 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:51:37,323 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:51:37,323 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:51:37,323 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:51:37,323 - root - INFO - ****Opening URL****
+2023-07-06 23:51:37,323 - root - INFO - ****Opening URL****
+2023-07-06 23:51:37,323 - root - INFO - ****Opening URL****
+2023-07-06 23:51:38,018 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:51:38,018 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:51:38,018 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:51:40,119 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:51:40,119 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:51:40,119 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:51:40,119 - root - INFO - ****Opening URL****
+2023-07-06 23:51:40,119 - root - INFO - ****Opening URL****
+2023-07-06 23:51:40,119 - root - INFO - ****Opening URL****
+2023-07-06 23:51:40,610 - root - INFO - ****Setting Port Number****
+2023-07-06 23:51:40,610 - root - INFO - ****Setting Port Number****
+2023-07-06 23:51:40,610 - root - INFO - ****Setting Port Number****
+2023-07-06 23:51:40,812 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:51:40,812 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:51:40,812 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:51:40,878 - root - INFO - ****Check Login Tag****
+2023-07-06 23:51:40,878 - root - INFO - ****Check Login Tag****
+2023-07-06 23:51:40,878 - root - INFO - ****Check Login Tag****
+2023-07-06 23:51:40,887 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:51:40,887 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:51:40,887 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:51:42,910 - root - INFO - **** Started Login test ****
+2023-07-06 23:51:42,910 - root - INFO - **** Started Login test ****
+2023-07-06 23:51:42,910 - root - INFO - **** Started Login test ****
+2023-07-06 23:51:42,910 - root - INFO - ****Opening URL****
+2023-07-06 23:51:42,910 - root - INFO - ****Opening URL****
+2023-07-06 23:51:42,910 - root - INFO - ****Opening URL****
+2023-07-06 23:51:46,677 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:51:46,677 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:51:46,677 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:51:46,783 - root - INFO - ****Setting username****
+2023-07-06 23:51:46,783 - root - INFO - ****Setting username****
+2023-07-06 23:51:46,783 - root - INFO - ****Setting username****
+2023-07-06 23:51:52,883 - root - INFO - ****Setting password****
+2023-07-06 23:51:52,883 - root - INFO - ****Setting password****
+2023-07-06 23:51:52,883 - root - INFO - ****Setting password****
+2023-07-06 23:51:52,926 - root - INFO - ****Requesting to Login****
+2023-07-06 23:51:52,926 - root - INFO - ****Requesting to Login****
+2023-07-06 23:51:52,926 - root - INFO - ****Requesting to Login****
+2023-07-06 23:51:55,927 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:51:55,927 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:51:55,927 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:51:55,931 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:51:55,931 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:51:55,931 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:51:56,013 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:51:56,013 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:51:56,013 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:51:58,256 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:51:58,256 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:51:58,256 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:51:58,257 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:51:58,257 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:51:58,257 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:51:58,257 - root - INFO - ****Opening URL****
+2023-07-06 23:51:58,257 - root - INFO - ****Opening URL****
+2023-07-06 23:51:58,257 - root - INFO - ****Opening URL****
+2023-07-06 23:52:00,000 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:52:00,000 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:52:00,000 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:52:01,292 - root - INFO - **** failed ****
+2023-07-06 23:52:01,292 - root - INFO - **** failed ****
+2023-07-06 23:52:01,292 - root - INFO - **** failed ****
+2023-07-06 23:52:03,373 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:52:03,373 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:52:03,373 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:52:03,373 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:52:03,373 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:52:03,373 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:52:03,373 - root - INFO - ****Opening URL****
+2023-07-06 23:52:03,373 - root - INFO - ****Opening URL****
+2023-07-06 23:52:03,373 - root - INFO - ****Opening URL****
+2023-07-06 23:52:04,036 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:52:04,036 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:52:04,036 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:52:06,152 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:52:06,152 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:52:06,152 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:52:06,152 - root - INFO - ****Opening URL****
+2023-07-06 23:52:06,152 - root - INFO - ****Opening URL****
+2023-07-06 23:52:06,152 - root - INFO - ****Opening URL****
+2023-07-06 23:52:06,634 - root - INFO - ****Setting Port Number****
+2023-07-06 23:52:06,634 - root - INFO - ****Setting Port Number****
+2023-07-06 23:52:06,634 - root - INFO - ****Setting Port Number****
+2023-07-06 23:52:06,914 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:52:06,914 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:52:06,914 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:52:07,000 - root - INFO - ****Check Login Tag****
+2023-07-06 23:52:07,000 - root - INFO - ****Check Login Tag****
+2023-07-06 23:52:07,000 - root - INFO - ****Check Login Tag****
+2023-07-06 23:52:07,013 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:52:07,013 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:52:07,013 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:52:09,083 - root - INFO - **** Started Login test ****
+2023-07-06 23:52:09,083 - root - INFO - **** Started Login test ****
+2023-07-06 23:52:09,083 - root - INFO - **** Started Login test ****
+2023-07-06 23:52:09,084 - root - INFO - ****Opening URL****
+2023-07-06 23:52:09,084 - root - INFO - ****Opening URL****
+2023-07-06 23:52:09,084 - root - INFO - ****Opening URL****
+2023-07-06 23:52:12,812 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:52:12,812 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:52:12,812 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:52:12,918 - root - INFO - ****Setting username****
+2023-07-06 23:52:12,918 - root - INFO - ****Setting username****
+2023-07-06 23:52:12,918 - root - INFO - ****Setting username****
+2023-07-06 23:52:19,031 - root - INFO - ****Setting password****
+2023-07-06 23:52:19,031 - root - INFO - ****Setting password****
+2023-07-06 23:52:19,031 - root - INFO - ****Setting password****
+2023-07-06 23:52:19,078 - root - INFO - ****Requesting to Login****
+2023-07-06 23:52:19,078 - root - INFO - ****Requesting to Login****
+2023-07-06 23:52:19,078 - root - INFO - ****Requesting to Login****
+2023-07-06 23:52:22,079 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:52:22,079 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:52:22,079 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:52:22,086 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:52:22,086 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:52:22,086 - root - ERROR - ****Login Test Failed****
+2023-07-06 23:52:22,178 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:52:22,178 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:52:22,178 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:52:27,207 - root - ERROR - ****Login  Failed****
+2023-07-06 23:52:27,207 - root - ERROR - ****Login  Failed****
+2023-07-06 23:52:27,207 - root - ERROR - ****Login  Failed****
+2023-07-06 23:52:27,298 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:52:27,298 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:52:27,298 - root - INFO - **** ScreenShoot captured ****
+2023-07-06 23:57:47,665 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:57:47,665 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:57:47,665 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:57:47,666 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:57:47,666 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:57:47,666 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:57:47,666 - root - INFO - ****Opening URL****
+2023-07-06 23:57:47,666 - root - INFO - ****Opening URL****
+2023-07-06 23:57:47,666 - root - INFO - ****Opening URL****
+2023-07-06 23:57:48,224 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:57:48,224 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:57:48,224 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:57:50,599 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:57:50,599 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:57:50,599 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:57:50,600 - root - INFO - ****Opening URL****
+2023-07-06 23:57:50,600 - root - INFO - ****Opening URL****
+2023-07-06 23:57:50,600 - root - INFO - ****Opening URL****
+2023-07-06 23:57:51,174 - root - INFO - ****Setting Port Number****
+2023-07-06 23:57:51,174 - root - INFO - ****Setting Port Number****
+2023-07-06 23:57:51,174 - root - INFO - ****Setting Port Number****
+2023-07-06 23:57:51,388 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:57:51,388 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:57:51,388 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:57:51,451 - root - INFO - ****Check Login Tag****
+2023-07-06 23:57:51,451 - root - INFO - ****Check Login Tag****
+2023-07-06 23:57:51,451 - root - INFO - ****Check Login Tag****
+2023-07-06 23:57:51,465 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:57:51,465 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:57:51,465 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:57:53,533 - root - INFO - **** Started Login test ****
+2023-07-06 23:57:53,533 - root - INFO - **** Started Login test ****
+2023-07-06 23:57:53,533 - root - INFO - **** Started Login test ****
+2023-07-06 23:57:53,533 - root - INFO - ****Opening URL****
+2023-07-06 23:57:53,533 - root - INFO - ****Opening URL****
+2023-07-06 23:57:53,533 - root - INFO - ****Opening URL****
+2023-07-06 23:57:57,245 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:57:57,245 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:57:57,245 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:57:57,349 - root - INFO - ****Setting username****
+2023-07-06 23:57:57,349 - root - INFO - ****Setting username****
+2023-07-06 23:57:57,349 - root - INFO - ****Setting username****
+2023-07-06 23:58:03,449 - root - INFO - ****Setting password****
+2023-07-06 23:58:03,449 - root - INFO - ****Setting password****
+2023-07-06 23:58:03,449 - root - INFO - ****Setting password****
+2023-07-06 23:58:03,496 - root - INFO - ****Requesting to Login****
+2023-07-06 23:58:03,496 - root - INFO - ****Requesting to Login****
+2023-07-06 23:58:03,496 - root - INFO - ****Requesting to Login****
+2023-07-06 23:58:06,498 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:58:06,498 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:58:06,498 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:58:06,505 - root - INFO - ****Login Test Passed****
+2023-07-06 23:58:06,505 - root - INFO - ****Login Test Passed****
+2023-07-06 23:58:06,505 - root - INFO - ****Login Test Passed****
+2023-07-06 23:58:08,620 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:58:08,620 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:58:08,620 - root - INFO - *************** Test_002_Login *****************
+2023-07-06 23:58:08,621 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:58:08,621 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:58:08,621 - root - INFO - **** Started Login DDR test ****
+2023-07-06 23:58:08,621 - root - INFO - ****Opening URL****
+2023-07-06 23:58:08,621 - root - INFO - ****Opening URL****
+2023-07-06 23:58:08,621 - root - INFO - ****Opening URL****
+2023-07-06 23:58:10,465 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:58:10,465 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:58:10,465 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:58:11,764 - root - INFO - **** passed ****
+2023-07-06 23:58:11,764 - root - INFO - **** passed ****
+2023-07-06 23:58:11,764 - root - INFO - **** passed ****
+2023-07-06 23:58:13,384 - root - INFO - **** passed ****
+2023-07-06 23:58:13,384 - root - INFO - **** passed ****
+2023-07-06 23:58:13,384 - root - INFO - **** passed ****
+2023-07-06 23:58:14,650 - root - INFO - **** passed ****
+2023-07-06 23:58:14,650 - root - INFO - **** passed ****
+2023-07-06 23:58:14,650 - root - INFO - **** passed ****
+2023-07-06 23:58:15,987 - root - INFO - **** passed ****
+2023-07-06 23:58:15,987 - root - INFO - **** passed ****
+2023-07-06 23:58:15,987 - root - INFO - **** passed ****
+2023-07-06 23:58:17,842 - root - INFO - **** passed ****
+2023-07-06 23:58:17,842 - root - INFO - **** passed ****
+2023-07-06 23:58:17,842 - root - INFO - **** passed ****
+2023-07-06 23:58:17,842 - root - INFO - ******* DDT Login test passed **********
+2023-07-06 23:58:17,842 - root - INFO - ******* DDT Login test passed **********
+2023-07-06 23:58:17,842 - root - INFO - ******* DDT Login test passed **********
+2023-07-06 23:58:17,976 - root - INFO - ******* End of Login DDT Test **********
+2023-07-06 23:58:17,976 - root - INFO - ******* End of Login DDT Test **********
+2023-07-06 23:58:17,976 - root - INFO - ******* End of Login DDT Test **********
+2023-07-06 23:58:17,976 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-06 23:58:17,976 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-06 23:58:17,976 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-07-06 23:58:19,862 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:58:19,862 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:58:19,862 - root - INFO - *************** Test_001_Login *****************
+2023-07-06 23:58:19,862 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:58:19,862 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:58:19,862 - root - INFO - **** Started Home page title test ****
+2023-07-06 23:58:19,862 - root - INFO - ****Opening URL****
+2023-07-06 23:58:19,862 - root - INFO - ****Opening URL****
+2023-07-06 23:58:19,862 - root - INFO - ****Opening URL****
+2023-07-06 23:58:20,330 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:58:20,330 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:58:20,330 - root - INFO - **** Home page title test passed ****
+2023-07-06 23:58:22,296 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:58:22,296 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:58:22,296 - root - INFO - **** Started Connect Server test ****
+2023-07-06 23:58:22,296 - root - INFO - ****Opening URL****
+2023-07-06 23:58:22,296 - root - INFO - ****Opening URL****
+2023-07-06 23:58:22,296 - root - INFO - ****Opening URL****
+2023-07-06 23:58:22,742 - root - INFO - ****Setting Port Number****
+2023-07-06 23:58:22,742 - root - INFO - ****Setting Port Number****
+2023-07-06 23:58:22,742 - root - INFO - ****Setting Port Number****
+2023-07-06 23:58:22,931 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:58:22,931 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:58:22,931 - root - INFO - ****Connect Button Clicked****
+2023-07-06 23:58:22,986 - root - INFO - ****Check Login Tag****
+2023-07-06 23:58:22,986 - root - INFO - ****Check Login Tag****
+2023-07-06 23:58:22,986 - root - INFO - ****Check Login Tag****
+2023-07-06 23:58:23,001 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:58:23,001 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:58:23,001 - root - INFO - ****Connect to Server Test Pass****
+2023-07-06 23:58:24,900 - root - INFO - **** Started Login test ****
+2023-07-06 23:58:24,900 - root - INFO - **** Started Login test ****
+2023-07-06 23:58:24,900 - root - INFO - **** Started Login test ****
+2023-07-06 23:58:24,900 - root - INFO - ****Opening URL****
+2023-07-06 23:58:24,900 - root - INFO - ****Opening URL****
+2023-07-06 23:58:24,900 - root - INFO - ****Opening URL****
+2023-07-06 23:58:28,578 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:58:28,578 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:58:28,578 - root - INFO - ****Server Connected to Portal****
+2023-07-06 23:58:28,670 - root - INFO - ****Setting username****
+2023-07-06 23:58:28,670 - root - INFO - ****Setting username****
+2023-07-06 23:58:28,670 - root - INFO - ****Setting username****
+2023-07-06 23:58:34,768 - root - INFO - ****Setting password****
+2023-07-06 23:58:34,768 - root - INFO - ****Setting password****
+2023-07-06 23:58:34,768 - root - INFO - ****Setting password****
+2023-07-06 23:58:34,814 - root - INFO - ****Requesting to Login****
+2023-07-06 23:58:34,814 - root - INFO - ****Requesting to Login****
+2023-07-06 23:58:34,814 - root - INFO - ****Requesting to Login****
+2023-07-06 23:58:37,815 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:58:37,815 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:58:37,815 - root - INFO - ****Retrieving Current URL****
+2023-07-06 23:58:37,824 - root - INFO - ****Login Test Passed****
+2023-07-06 23:58:37,824 - root - INFO - ****Login Test Passed****
+2023-07-06 23:58:37,824 - root - INFO - ****Login Test Passed****
+2023-07-06 23:58:42,642 - root - INFO - ****Login Successfully***
+2023-07-06 23:58:42,642 - root - INFO - ****Login Successfully***
+2023-07-06 23:58:42,642 - root - INFO - ****Login Successfully***
+2023-07-06 23:58:44,695 - root - INFO - ****Logout Successfully***
+2023-07-06 23:58:44,695 - root - INFO - ****Logout Successfully***
+2023-07-06 23:58:44,695 - root - INFO - ****Logout Successfully***
+2023-07-07 22:20:49,318 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:49,318 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:49,318 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:49,318 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:49,318 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:49,318 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:49,321 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:49,321 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:49,321 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:49,321 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:49,321 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:49,321 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:49,321 - root - INFO - ****Opening URL****
+2023-07-07 22:20:49,321 - root - INFO - ****Opening URL****
+2023-07-07 22:20:49,321 - root - INFO - ****Opening URL****
+2023-07-07 22:20:49,321 - root - INFO - ****Opening URL****
+2023-07-07 22:20:49,321 - root - INFO - ****Opening URL****
+2023-07-07 22:20:49,321 - root - INFO - ****Opening URL****
+2023-07-07 22:20:49,865 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:49,865 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:49,865 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:49,865 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:49,865 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:49,865 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:51,809 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:51,809 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:51,809 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:51,809 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:51,809 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:51,809 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:51,809 - root - INFO - ****Opening URL****
+2023-07-07 22:20:51,809 - root - INFO - ****Opening URL****
+2023-07-07 22:20:51,809 - root - INFO - ****Opening URL****
+2023-07-07 22:20:51,809 - root - INFO - ****Opening URL****
+2023-07-07 22:20:51,809 - root - INFO - ****Opening URL****
+2023-07-07 22:20:51,809 - root - INFO - ****Opening URL****
+2023-07-07 22:20:52,241 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:52,241 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:52,241 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:52,241 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:52,241 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:52,241 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:52,499 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:52,499 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:52,499 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:52,499 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:52,499 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:52,499 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:52,586 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:52,586 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:52,586 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:52,586 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:52,586 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:52,586 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:52,607 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:52,607 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:52,607 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:52,607 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:52,607 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:52,607 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:54,602 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:54,602 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:54,602 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:54,602 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:54,602 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:54,602 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:54,602 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:54,602 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:54,602 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:54,602 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:54,602 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:54,602 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:54,602 - root - INFO - ****Opening URL****
+2023-07-07 22:20:54,602 - root - INFO - ****Opening URL****
+2023-07-07 22:20:54,602 - root - INFO - ****Opening URL****
+2023-07-07 22:20:54,602 - root - INFO - ****Opening URL****
+2023-07-07 22:20:54,602 - root - INFO - ****Opening URL****
+2023-07-07 22:20:54,602 - root - INFO - ****Opening URL****
+2023-07-07 22:20:55,029 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:55,029 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:55,029 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:55,029 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:55,029 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:55,029 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:20:56,963 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:56,963 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:56,963 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:56,963 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:56,963 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:56,963 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:20:56,964 - root - INFO - ****Opening URL****
+2023-07-07 22:20:56,964 - root - INFO - ****Opening URL****
+2023-07-07 22:20:56,964 - root - INFO - ****Opening URL****
+2023-07-07 22:20:56,964 - root - INFO - ****Opening URL****
+2023-07-07 22:20:56,964 - root - INFO - ****Opening URL****
+2023-07-07 22:20:56,964 - root - INFO - ****Opening URL****
+2023-07-07 22:20:57,383 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:57,383 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:57,383 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:57,383 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:57,383 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:57,383 - root - INFO - ****Setting Port Number****
+2023-07-07 22:20:57,566 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:57,566 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:57,566 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:57,566 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:57,566 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:57,566 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:20:57,632 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:57,632 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:57,632 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:57,632 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:57,632 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:57,632 - root - INFO - ****Check Login Tag****
+2023-07-07 22:20:57,649 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:57,649 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:57,649 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:57,649 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:57,649 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:57,649 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:20:59,786 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:59,786 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:59,786 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:59,786 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:59,786 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:59,786 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:20:59,786 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:59,786 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:59,786 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:59,786 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:59,786 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:59,786 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:20:59,786 - root - INFO - ****Opening URL****
+2023-07-07 22:20:59,786 - root - INFO - ****Opening URL****
+2023-07-07 22:20:59,786 - root - INFO - ****Opening URL****
+2023-07-07 22:20:59,786 - root - INFO - ****Opening URL****
+2023-07-07 22:20:59,786 - root - INFO - ****Opening URL****
+2023-07-07 22:20:59,786 - root - INFO - ****Opening URL****
+2023-07-07 22:21:00,268 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:00,268 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:00,268 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:00,268 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:00,268 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:00,268 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:02,236 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:02,236 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:02,236 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:02,236 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:02,236 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:02,236 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:02,237 - root - INFO - ****Opening URL****
+2023-07-07 22:21:02,237 - root - INFO - ****Opening URL****
+2023-07-07 22:21:02,237 - root - INFO - ****Opening URL****
+2023-07-07 22:21:02,237 - root - INFO - ****Opening URL****
+2023-07-07 22:21:02,237 - root - INFO - ****Opening URL****
+2023-07-07 22:21:02,237 - root - INFO - ****Opening URL****
+2023-07-07 22:21:02,693 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:02,693 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:02,693 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:02,693 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:02,693 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:02,693 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:02,893 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:02,893 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:02,893 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:02,893 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:02,893 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:02,893 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:02,990 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:02,990 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:02,990 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:02,990 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:02,990 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:02,990 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:03,006 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:03,006 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:03,006 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:03,006 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:03,006 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:03,006 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:05,143 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:05,143 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:05,143 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:05,143 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:05,143 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:05,143 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:05,143 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:05,143 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:05,143 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:05,143 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:05,143 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:05,143 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:05,143 - root - INFO - ****Opening URL****
+2023-07-07 22:21:05,143 - root - INFO - ****Opening URL****
+2023-07-07 22:21:05,143 - root - INFO - ****Opening URL****
+2023-07-07 22:21:05,143 - root - INFO - ****Opening URL****
+2023-07-07 22:21:05,143 - root - INFO - ****Opening URL****
+2023-07-07 22:21:05,143 - root - INFO - ****Opening URL****
+2023-07-07 22:21:05,598 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:05,598 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:05,598 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:05,598 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:05,598 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:05,598 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:07,727 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:07,727 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:07,727 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:07,727 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:07,727 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:07,727 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:07,727 - root - INFO - ****Opening URL****
+2023-07-07 22:21:07,727 - root - INFO - ****Opening URL****
+2023-07-07 22:21:07,727 - root - INFO - ****Opening URL****
+2023-07-07 22:21:07,727 - root - INFO - ****Opening URL****
+2023-07-07 22:21:07,727 - root - INFO - ****Opening URL****
+2023-07-07 22:21:07,727 - root - INFO - ****Opening URL****
+2023-07-07 22:21:08,155 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:08,155 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:08,155 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:08,155 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:08,155 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:08,155 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:08,356 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:08,356 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:08,356 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:08,356 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:08,356 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:08,356 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:08,431 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:08,431 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:08,431 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:08,431 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:08,431 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:08,431 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:08,445 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:08,445 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:08,445 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:08,445 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:08,445 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:08,445 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:10,481 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:10,481 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:10,481 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:10,481 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:10,481 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:10,481 - root - INFO - *************** Test_001_Login *****************
+2023-07-07 22:21:10,481 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:10,481 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:10,481 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:10,481 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:10,481 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:10,481 - root - INFO - **** Started Home page title test ****
+2023-07-07 22:21:10,481 - root - INFO - ****Opening URL****
+2023-07-07 22:21:10,481 - root - INFO - ****Opening URL****
+2023-07-07 22:21:10,481 - root - INFO - ****Opening URL****
+2023-07-07 22:21:10,481 - root - INFO - ****Opening URL****
+2023-07-07 22:21:10,481 - root - INFO - ****Opening URL****
+2023-07-07 22:21:10,481 - root - INFO - ****Opening URL****
+2023-07-07 22:21:10,913 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:10,913 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:10,913 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:10,913 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:10,913 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:10,913 - root - INFO - **** Home page title test passed ****
+2023-07-07 22:21:12,915 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:12,915 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:12,915 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:12,915 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:12,915 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:12,915 - root - INFO - **** Started Connect Server test ****
+2023-07-07 22:21:12,915 - root - INFO - ****Opening URL****
+2023-07-07 22:21:12,915 - root - INFO - ****Opening URL****
+2023-07-07 22:21:12,915 - root - INFO - ****Opening URL****
+2023-07-07 22:21:12,915 - root - INFO - ****Opening URL****
+2023-07-07 22:21:12,915 - root - INFO - ****Opening URL****
+2023-07-07 22:21:12,915 - root - INFO - ****Opening URL****
+2023-07-07 22:21:13,364 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:13,364 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:13,364 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:13,364 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:13,364 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:13,364 - root - INFO - ****Setting Port Number****
+2023-07-07 22:21:13,554 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:13,554 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:13,554 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:13,554 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:13,554 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:13,554 - root - INFO - ****Connect Button Clicked****
+2023-07-07 22:21:13,611 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:13,611 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:13,611 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:13,611 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:13,611 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:13,611 - root - INFO - ****Check Login Tag****
+2023-07-07 22:21:13,624 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:13,624 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:13,624 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:13,624 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:13,624 - root - INFO - ****Connect to Server Test Pass****
+2023-07-07 22:21:13,624 - root - INFO - ****Connect to Server Test Pass****
+2023-07-10 12:35:49,689 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:35:49,689 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:35:49,689 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:35:49,689 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:35:49,689 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:35:49,689 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:35:49,691 - root - INFO - ****Opening URL****
+2023-07-10 12:35:49,691 - root - INFO - ****Opening URL****
+2023-07-10 12:35:49,691 - root - INFO - ****Opening URL****
+2023-07-10 12:35:49,691 - root - INFO - ****Opening URL****
+2023-07-10 12:35:49,691 - root - INFO - ****Opening URL****
+2023-07-10 12:35:49,691 - root - INFO - ****Opening URL****
+2023-07-10 12:39:10,791 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:10,791 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:10,791 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:10,791 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:10,791 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:10,791 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:10,793 - root - INFO - ****Opening URL****
+2023-07-10 12:39:10,793 - root - INFO - ****Opening URL****
+2023-07-10 12:39:10,793 - root - INFO - ****Opening URL****
+2023-07-10 12:39:10,793 - root - INFO - ****Opening URL****
+2023-07-10 12:39:10,793 - root - INFO - ****Opening URL****
+2023-07-10 12:39:10,793 - root - INFO - ****Opening URL****
+2023-07-10 12:39:12,083 - root - INFO - ****Setting Port Number****
+2023-07-10 12:39:12,083 - root - INFO - ****Setting Port Number****
+2023-07-10 12:39:12,083 - root - INFO - ****Setting Port Number****
+2023-07-10 12:39:12,083 - root - INFO - ****Setting Port Number****
+2023-07-10 12:39:12,083 - root - INFO - ****Setting Port Number****
+2023-07-10 12:39:12,083 - root - INFO - ****Setting Port Number****
+2023-07-10 12:39:12,259 - root - INFO - ****Connect Button Clicked****
+2023-07-10 12:39:12,259 - root - INFO - ****Connect Button Clicked****
+2023-07-10 12:39:12,259 - root - INFO - ****Connect Button Clicked****
+2023-07-10 12:39:12,259 - root - INFO - ****Connect Button Clicked****
+2023-07-10 12:39:12,259 - root - INFO - ****Connect Button Clicked****
+2023-07-10 12:39:12,259 - root - INFO - ****Connect Button Clicked****
+2023-07-10 12:39:46,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:46,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:46,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:46,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:46,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:46,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:39:46,343 - root - INFO - ****Opening URL****
+2023-07-10 12:39:46,343 - root - INFO - ****Opening URL****
+2023-07-10 12:39:46,343 - root - INFO - ****Opening URL****
+2023-07-10 12:39:46,343 - root - INFO - ****Opening URL****
+2023-07-10 12:39:46,343 - root - INFO - ****Opening URL****
+2023-07-10 12:39:46,343 - root - INFO - ****Opening URL****
+2023-07-10 12:41:01,612 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:41:01,612 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:41:01,612 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:41:01,612 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:41:01,612 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:41:01,612 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:41:01,613 - root - INFO - ****Opening URL****
+2023-07-10 12:41:01,613 - root - INFO - ****Opening URL****
+2023-07-10 12:41:01,613 - root - INFO - ****Opening URL****
+2023-07-10 12:41:01,613 - root - INFO - ****Opening URL****
+2023-07-10 12:41:01,613 - root - INFO - ****Opening URL****
+2023-07-10 12:41:01,613 - root - INFO - ****Opening URL****
+2023-07-10 12:42:22,237 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:42:22,237 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:42:22,237 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:42:22,237 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:42:22,237 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:42:22,237 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:42:22,238 - root - INFO - ****Opening URL****
+2023-07-10 12:42:22,238 - root - INFO - ****Opening URL****
+2023-07-10 12:42:22,238 - root - INFO - ****Opening URL****
+2023-07-10 12:42:22,238 - root - INFO - ****Opening URL****
+2023-07-10 12:42:22,238 - root - INFO - ****Opening URL****
+2023-07-10 12:42:22,238 - root - INFO - ****Opening URL****
+2023-07-10 12:45:19,302 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:45:19,302 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:45:19,302 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:45:19,302 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:45:19,302 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:45:19,302 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:45:19,303 - root - INFO - ****Opening URL****
+2023-07-10 12:45:19,303 - root - INFO - ****Opening URL****
+2023-07-10 12:45:19,303 - root - INFO - ****Opening URL****
+2023-07-10 12:45:19,303 - root - INFO - ****Opening URL****
+2023-07-10 12:45:19,303 - root - INFO - ****Opening URL****
+2023-07-10 12:45:19,303 - root - INFO - ****Opening URL****
+2023-07-10 12:46:44,554 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:46:44,554 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:46:44,554 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:46:44,554 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:46:44,554 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:46:44,554 - root - INFO - **** Started Connect Server test ****
+2023-07-10 12:46:44,556 - root - INFO - ****Opening URL****
+2023-07-10 12:46:44,556 - root - INFO - ****Opening URL****
+2023-07-10 12:46:44,556 - root - INFO - ****Opening URL****
+2023-07-10 12:46:44,556 - root - INFO - ****Opening URL****
+2023-07-10 12:46:44,556 - root - INFO - ****Opening URL****
+2023-07-10 12:46:44,556 - root - INFO - ****Opening URL****
+2023-07-10 13:18:17,189 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:17,189 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:17,189 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:17,189 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:17,189 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:17,189 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:17,191 - root - INFO - ****Opening URL****
+2023-07-10 13:18:17,191 - root - INFO - ****Opening URL****
+2023-07-10 13:18:17,191 - root - INFO - ****Opening URL****
+2023-07-10 13:18:17,191 - root - INFO - ****Opening URL****
+2023-07-10 13:18:17,191 - root - INFO - ****Opening URL****
+2023-07-10 13:18:17,191 - root - INFO - ****Opening URL****
+2023-07-10 13:18:56,917 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:56,917 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:56,917 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:56,917 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:56,917 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:56,917 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:18:56,918 - root - INFO - ****Opening URL****
+2023-07-10 13:18:56,918 - root - INFO - ****Opening URL****
+2023-07-10 13:18:56,918 - root - INFO - ****Opening URL****
+2023-07-10 13:18:56,918 - root - INFO - ****Opening URL****
+2023-07-10 13:18:56,918 - root - INFO - ****Opening URL****
+2023-07-10 13:18:56,918 - root - INFO - ****Opening URL****
+2023-07-10 13:22:45,159 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:22:45,159 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:22:45,159 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:22:45,159 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:22:45,159 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:22:45,159 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:22:45,160 - root - INFO - ****Opening URL****
+2023-07-10 13:22:45,160 - root - INFO - ****Opening URL****
+2023-07-10 13:22:45,160 - root - INFO - ****Opening URL****
+2023-07-10 13:22:45,160 - root - INFO - ****Opening URL****
+2023-07-10 13:22:45,160 - root - INFO - ****Opening URL****
+2023-07-10 13:22:45,160 - root - INFO - ****Opening URL****
+2023-07-10 13:23:34,514 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:23:34,514 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:23:34,514 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:23:34,514 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:23:34,514 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:23:34,514 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:23:34,515 - root - INFO - ****Opening URL****
+2023-07-10 13:23:34,515 - root - INFO - ****Opening URL****
+2023-07-10 13:23:34,515 - root - INFO - ****Opening URL****
+2023-07-10 13:23:34,515 - root - INFO - ****Opening URL****
+2023-07-10 13:23:34,515 - root - INFO - ****Opening URL****
+2023-07-10 13:23:34,515 - root - INFO - ****Opening URL****
+2023-07-10 13:25:48,581 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:25:48,581 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:25:48,581 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:25:48,581 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:25:48,581 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:25:48,581 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:25:48,583 - root - INFO - ****Opening URL****
+2023-07-10 13:25:48,583 - root - INFO - ****Opening URL****
+2023-07-10 13:25:48,583 - root - INFO - ****Opening URL****
+2023-07-10 13:25:48,583 - root - INFO - ****Opening URL****
+2023-07-10 13:25:48,583 - root - INFO - ****Opening URL****
+2023-07-10 13:25:48,583 - root - INFO - ****Opening URL****
+2023-07-10 13:26:13,731 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:26:13,731 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:26:13,731 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:26:13,731 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:26:13,731 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:26:13,731 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:26:13,732 - root - INFO - ****Opening URL****
+2023-07-10 13:26:13,732 - root - INFO - ****Opening URL****
+2023-07-10 13:26:13,732 - root - INFO - ****Opening URL****
+2023-07-10 13:26:13,732 - root - INFO - ****Opening URL****
+2023-07-10 13:26:13,732 - root - INFO - ****Opening URL****
+2023-07-10 13:26:13,732 - root - INFO - ****Opening URL****
+2023-07-10 13:52:12,472 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:52:12,472 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:52:12,472 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:52:12,472 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:52:12,472 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:52:12,472 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:52:12,474 - root - INFO - ****Opening URL****
+2023-07-10 13:52:12,474 - root - INFO - ****Opening URL****
+2023-07-10 13:52:12,474 - root - INFO - ****Opening URL****
+2023-07-10 13:52:12,474 - root - INFO - ****Opening URL****
+2023-07-10 13:52:12,474 - root - INFO - ****Opening URL****
+2023-07-10 13:52:12,474 - root - INFO - ****Opening URL****
+2023-07-10 13:54:00,368 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:54:00,368 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:54:00,368 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:54:00,368 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:54:00,368 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:54:00,368 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:54:00,370 - root - INFO - ****Opening URL****
+2023-07-10 13:54:00,370 - root - INFO - ****Opening URL****
+2023-07-10 13:54:00,370 - root - INFO - ****Opening URL****
+2023-07-10 13:54:00,370 - root - INFO - ****Opening URL****
+2023-07-10 13:54:00,370 - root - INFO - ****Opening URL****
+2023-07-10 13:54:00,370 - root - INFO - ****Opening URL****
+2023-07-10 13:55:45,640 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:55:45,640 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:55:45,640 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:55:45,640 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:55:45,640 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:55:45,640 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:55:45,643 - root - INFO - ****Opening URL****
+2023-07-10 13:55:45,643 - root - INFO - ****Opening URL****
+2023-07-10 13:55:45,643 - root - INFO - ****Opening URL****
+2023-07-10 13:55:45,643 - root - INFO - ****Opening URL****
+2023-07-10 13:55:45,643 - root - INFO - ****Opening URL****
+2023-07-10 13:55:45,643 - root - INFO - ****Opening URL****
+2023-07-10 13:56:51,955 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:56:51,955 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:56:51,955 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:56:51,955 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:56:51,955 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:56:51,955 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:56:51,956 - root - INFO - ****Opening URL****
+2023-07-10 13:56:51,956 - root - INFO - ****Opening URL****
+2023-07-10 13:56:51,956 - root - INFO - ****Opening URL****
+2023-07-10 13:56:51,956 - root - INFO - ****Opening URL****
+2023-07-10 13:56:51,956 - root - INFO - ****Opening URL****
+2023-07-10 13:56:51,956 - root - INFO - ****Opening URL****
+2023-07-10 13:58:04,663 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:04,663 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:04,663 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:04,663 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:04,663 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:04,663 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:04,667 - root - INFO - ****Opening URL****
+2023-07-10 13:58:04,667 - root - INFO - ****Opening URL****
+2023-07-10 13:58:04,667 - root - INFO - ****Opening URL****
+2023-07-10 13:58:04,667 - root - INFO - ****Opening URL****
+2023-07-10 13:58:04,667 - root - INFO - ****Opening URL****
+2023-07-10 13:58:04,667 - root - INFO - ****Opening URL****
+2023-07-10 13:58:44,704 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:44,704 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:44,704 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:44,704 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:44,704 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:44,704 - root - INFO - **** Started Connect Server test ****
+2023-07-10 13:58:44,706 - root - INFO - ****Opening URL****
+2023-07-10 13:58:44,706 - root - INFO - ****Opening URL****
+2023-07-10 13:58:44,706 - root - INFO - ****Opening URL****
+2023-07-10 13:58:44,706 - root - INFO - ****Opening URL****
+2023-07-10 13:58:44,706 - root - INFO - ****Opening URL****
+2023-07-10 13:58:44,706 - root - INFO - ****Opening URL****
+2023-07-10 14:00:17,995 - root - INFO - **** Started Connect Server test ****
+2023-07-10 14:00:17,995 - root - INFO - **** Started Connect Server test ****
+2023-07-10 14:00:17,995 - root - INFO - **** Started Connect Server test ****
+2023-07-10 14:00:17,995 - root - INFO - **** Started Connect Server test ****
+2023-07-10 14:00:17,995 - root - INFO - **** Started Connect Server test ****
+2023-07-10 14:00:17,995 - root - INFO - **** Started Connect Server test ****
+2023-07-10 14:00:17,996 - root - INFO - ****Opening URL****
+2023-07-10 14:00:17,996 - root - INFO - ****Opening URL****
+2023-07-10 14:00:17,996 - root - INFO - ****Opening URL****
+2023-07-10 14:00:17,996 - root - INFO - ****Opening URL****
+2023-07-10 14:00:17,996 - root - INFO - ****Opening URL****
+2023-07-10 14:00:17,996 - root - INFO - ****Opening URL****
+2023-07-10 17:27:04,119 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:27:04,119 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:27:04,119 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:27:04,119 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:27:04,119 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:27:04,119 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:27:04,121 - root - INFO - ****Opening URL****
+2023-07-10 17:27:04,121 - root - INFO - ****Opening URL****
+2023-07-10 17:27:04,121 - root - INFO - ****Opening URL****
+2023-07-10 17:27:04,121 - root - INFO - ****Opening URL****
+2023-07-10 17:27:04,121 - root - INFO - ****Opening URL****
+2023-07-10 17:27:04,121 - root - INFO - ****Opening URL****
+2023-07-10 17:29:05,261 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:29:05,261 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:29:05,261 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:29:05,261 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:29:05,261 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:29:05,261 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:29:05,263 - root - INFO - ****Opening URL****
+2023-07-10 17:29:05,263 - root - INFO - ****Opening URL****
+2023-07-10 17:29:05,263 - root - INFO - ****Opening URL****
+2023-07-10 17:29:05,263 - root - INFO - ****Opening URL****
+2023-07-10 17:29:05,263 - root - INFO - ****Opening URL****
+2023-07-10 17:29:05,263 - root - INFO - ****Opening URL****
+2023-07-10 17:30:21,711 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:30:21,711 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:30:21,711 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:30:21,711 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:30:21,711 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:30:21,711 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:30:21,712 - root - INFO - ****Opening URL****
+2023-07-10 17:30:21,712 - root - INFO - ****Opening URL****
+2023-07-10 17:30:21,712 - root - INFO - ****Opening URL****
+2023-07-10 17:30:21,712 - root - INFO - ****Opening URL****
+2023-07-10 17:30:21,712 - root - INFO - ****Opening URL****
+2023-07-10 17:30:21,712 - root - INFO - ****Opening URL****
+2023-07-10 17:31:28,959 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:31:28,959 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:31:28,959 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:31:28,959 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:31:28,959 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:31:28,959 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:31:28,960 - root - INFO - ****Opening URL****
+2023-07-10 17:31:28,960 - root - INFO - ****Opening URL****
+2023-07-10 17:31:28,960 - root - INFO - ****Opening URL****
+2023-07-10 17:31:28,960 - root - INFO - ****Opening URL****
+2023-07-10 17:31:28,960 - root - INFO - ****Opening URL****
+2023-07-10 17:31:28,960 - root - INFO - ****Opening URL****
+2023-07-10 17:32:22,317 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:32:22,317 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:32:22,317 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:32:22,317 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:32:22,317 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:32:22,317 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:32:22,318 - root - INFO - ****Opening URL****
+2023-07-10 17:32:22,318 - root - INFO - ****Opening URL****
+2023-07-10 17:32:22,318 - root - INFO - ****Opening URL****
+2023-07-10 17:32:22,318 - root - INFO - ****Opening URL****
+2023-07-10 17:32:22,318 - root - INFO - ****Opening URL****
+2023-07-10 17:32:22,318 - root - INFO - ****Opening URL****
+2023-07-10 17:34:37,881 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:34:37,881 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:34:37,881 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:34:37,881 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:34:37,881 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:34:37,881 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:34:37,883 - root - INFO - ****Opening URL****
+2023-07-10 17:34:37,883 - root - INFO - ****Opening URL****
+2023-07-10 17:34:37,883 - root - INFO - ****Opening URL****
+2023-07-10 17:34:37,883 - root - INFO - ****Opening URL****
+2023-07-10 17:34:37,883 - root - INFO - ****Opening URL****
+2023-07-10 17:34:37,883 - root - INFO - ****Opening URL****
+2023-07-10 17:41:20,291 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:41:20,291 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:41:20,291 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:41:20,291 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:41:20,291 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:41:20,291 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:41:20,292 - root - INFO - ****Opening URL****
+2023-07-10 17:41:20,292 - root - INFO - ****Opening URL****
+2023-07-10 17:41:20,292 - root - INFO - ****Opening URL****
+2023-07-10 17:41:20,292 - root - INFO - ****Opening URL****
+2023-07-10 17:41:20,292 - root - INFO - ****Opening URL****
+2023-07-10 17:41:20,292 - root - INFO - ****Opening URL****
+2023-07-10 17:42:00,977 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:00,977 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:00,977 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:00,977 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:00,977 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:00,977 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:00,978 - root - INFO - ****Opening URL****
+2023-07-10 17:42:00,978 - root - INFO - ****Opening URL****
+2023-07-10 17:42:00,978 - root - INFO - ****Opening URL****
+2023-07-10 17:42:00,978 - root - INFO - ****Opening URL****
+2023-07-10 17:42:00,978 - root - INFO - ****Opening URL****
+2023-07-10 17:42:00,978 - root - INFO - ****Opening URL****
+2023-07-10 17:42:23,972 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:23,972 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:23,972 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:23,972 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:23,972 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:23,972 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:42:23,973 - root - INFO - ****Opening URL****
+2023-07-10 17:42:23,973 - root - INFO - ****Opening URL****
+2023-07-10 17:42:23,973 - root - INFO - ****Opening URL****
+2023-07-10 17:42:23,973 - root - INFO - ****Opening URL****
+2023-07-10 17:42:23,973 - root - INFO - ****Opening URL****
+2023-07-10 17:42:23,973 - root - INFO - ****Opening URL****
+2023-07-10 17:46:18,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:46:18,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:46:18,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:46:18,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:46:18,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:46:18,342 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:46:18,343 - root - INFO - ****Opening URL****
+2023-07-10 17:46:18,343 - root - INFO - ****Opening URL****
+2023-07-10 17:46:18,343 - root - INFO - ****Opening URL****
+2023-07-10 17:46:18,343 - root - INFO - ****Opening URL****
+2023-07-10 17:46:18,343 - root - INFO - ****Opening URL****
+2023-07-10 17:46:18,343 - root - INFO - ****Opening URL****
+2023-07-10 17:47:06,701 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:47:06,701 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:47:06,701 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:47:06,701 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:47:06,701 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:47:06,701 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:47:06,702 - root - INFO - ****Opening URL****
+2023-07-10 17:47:06,702 - root - INFO - ****Opening URL****
+2023-07-10 17:47:06,702 - root - INFO - ****Opening URL****
+2023-07-10 17:47:06,702 - root - INFO - ****Opening URL****
+2023-07-10 17:47:06,702 - root - INFO - ****Opening URL****
+2023-07-10 17:47:06,702 - root - INFO - ****Opening URL****
+2023-07-10 17:51:49,478 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:51:49,478 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:51:49,478 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:51:49,478 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:51:49,478 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:51:49,478 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:51:49,480 - root - INFO - ****Opening URL****
+2023-07-10 17:51:49,480 - root - INFO - ****Opening URL****
+2023-07-10 17:51:49,480 - root - INFO - ****Opening URL****
+2023-07-10 17:51:49,480 - root - INFO - ****Opening URL****
+2023-07-10 17:51:49,480 - root - INFO - ****Opening URL****
+2023-07-10 17:51:49,480 - root - INFO - ****Opening URL****
+2023-07-10 17:52:54,840 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:52:54,840 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:52:54,840 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:52:54,840 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:52:54,840 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:52:54,840 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:52:54,841 - root - INFO - ****Opening URL****
+2023-07-10 17:52:54,841 - root - INFO - ****Opening URL****
+2023-07-10 17:52:54,841 - root - INFO - ****Opening URL****
+2023-07-10 17:52:54,841 - root - INFO - ****Opening URL****
+2023-07-10 17:52:54,841 - root - INFO - ****Opening URL****
+2023-07-10 17:52:54,841 - root - INFO - ****Opening URL****
+2023-07-10 17:55:12,491 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:55:12,491 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:55:12,491 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:55:12,491 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:55:12,491 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:55:12,491 - root - INFO - **** Started Connect Server test ****
+2023-07-10 17:55:12,492 - root - INFO - ****Opening URL****
+2023-07-10 17:55:12,492 - root - INFO - ****Opening URL****
+2023-07-10 17:55:12,492 - root - INFO - ****Opening URL****
+2023-07-10 17:55:12,492 - root - INFO - ****Opening URL****
+2023-07-10 17:55:12,492 - root - INFO - ****Opening URL****
+2023-07-10 17:55:12,492 - root - INFO - ****Opening URL****
+2023-07-10 18:46:56,067 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:46:56,067 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:46:56,067 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:46:56,067 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:46:56,067 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:46:56,067 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:46:56,069 - root - INFO - ****Opening URL****
+2023-07-10 18:46:56,069 - root - INFO - ****Opening URL****
+2023-07-10 18:46:56,069 - root - INFO - ****Opening URL****
+2023-07-10 18:46:56,069 - root - INFO - ****Opening URL****
+2023-07-10 18:46:56,069 - root - INFO - ****Opening URL****
+2023-07-10 18:46:56,069 - root - INFO - ****Opening URL****
+2023-07-10 18:47:23,036 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:47:23,036 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:47:23,036 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:47:23,036 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:47:23,036 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:47:23,036 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:47:23,038 - root - INFO - ****Opening URL****
+2023-07-10 18:47:23,038 - root - INFO - ****Opening URL****
+2023-07-10 18:47:23,038 - root - INFO - ****Opening URL****
+2023-07-10 18:47:23,038 - root - INFO - ****Opening URL****
+2023-07-10 18:47:23,038 - root - INFO - ****Opening URL****
+2023-07-10 18:47:23,038 - root - INFO - ****Opening URL****
+2023-07-10 18:51:33,002 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:51:33,002 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:51:33,002 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:51:33,002 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:51:33,002 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:51:33,002 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:51:33,005 - root - INFO - ****Opening URL****
+2023-07-10 18:51:33,005 - root - INFO - ****Opening URL****
+2023-07-10 18:51:33,005 - root - INFO - ****Opening URL****
+2023-07-10 18:51:33,005 - root - INFO - ****Opening URL****
+2023-07-10 18:51:33,005 - root - INFO - ****Opening URL****
+2023-07-10 18:51:33,005 - root - INFO - ****Opening URL****
+2023-07-10 18:53:10,460 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:53:10,460 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:53:10,460 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:53:10,460 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:53:10,460 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:53:10,460 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:53:10,462 - root - INFO - ****Opening URL****
+2023-07-10 18:53:10,462 - root - INFO - ****Opening URL****
+2023-07-10 18:53:10,462 - root - INFO - ****Opening URL****
+2023-07-10 18:53:10,462 - root - INFO - ****Opening URL****
+2023-07-10 18:53:10,462 - root - INFO - ****Opening URL****
+2023-07-10 18:53:10,462 - root - INFO - ****Opening URL****
+2023-07-10 18:55:43,605 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:55:43,605 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:55:43,605 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:55:43,605 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:55:43,605 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:55:43,605 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:55:43,607 - root - INFO - ****Opening URL****
+2023-07-10 18:55:43,607 - root - INFO - ****Opening URL****
+2023-07-10 18:55:43,607 - root - INFO - ****Opening URL****
+2023-07-10 18:55:43,607 - root - INFO - ****Opening URL****
+2023-07-10 18:55:43,607 - root - INFO - ****Opening URL****
+2023-07-10 18:55:43,607 - root - INFO - ****Opening URL****
+2023-07-10 18:59:04,233 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:04,233 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:04,233 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:04,233 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:04,233 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:04,233 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:04,234 - root - INFO - ****Opening URL****
+2023-07-10 18:59:04,234 - root - INFO - ****Opening URL****
+2023-07-10 18:59:04,234 - root - INFO - ****Opening URL****
+2023-07-10 18:59:04,234 - root - INFO - ****Opening URL****
+2023-07-10 18:59:04,234 - root - INFO - ****Opening URL****
+2023-07-10 18:59:04,234 - root - INFO - ****Opening URL****
+2023-07-10 18:59:45,776 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:45,776 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:45,776 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:45,776 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:45,776 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:45,776 - root - INFO - **** Started Connect Server test ****
+2023-07-10 18:59:45,778 - root - INFO - ****Opening URL****
+2023-07-10 18:59:45,778 - root - INFO - ****Opening URL****
+2023-07-10 18:59:45,778 - root - INFO - ****Opening URL****
+2023-07-10 18:59:45,778 - root - INFO - ****Opening URL****
+2023-07-10 18:59:45,778 - root - INFO - ****Opening URL****
+2023-07-10 18:59:45,778 - root - INFO - ****Opening URL****
+2023-07-10 19:01:35,682 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:01:35,682 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:01:35,682 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:01:35,682 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:01:35,682 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:01:35,682 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:01:35,685 - root - INFO - ****Opening URL****
+2023-07-10 19:01:35,685 - root - INFO - ****Opening URL****
+2023-07-10 19:01:35,685 - root - INFO - ****Opening URL****
+2023-07-10 19:01:35,685 - root - INFO - ****Opening URL****
+2023-07-10 19:01:35,685 - root - INFO - ****Opening URL****
+2023-07-10 19:01:35,685 - root - INFO - ****Opening URL****
+2023-07-10 19:04:16,805 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:16,805 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:16,805 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:16,805 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:16,805 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:16,805 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:16,807 - root - INFO - ****Opening URL****
+2023-07-10 19:04:16,807 - root - INFO - ****Opening URL****
+2023-07-10 19:04:16,807 - root - INFO - ****Opening URL****
+2023-07-10 19:04:16,807 - root - INFO - ****Opening URL****
+2023-07-10 19:04:16,807 - root - INFO - ****Opening URL****
+2023-07-10 19:04:16,807 - root - INFO - ****Opening URL****
+2023-07-10 19:04:53,389 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:53,389 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:53,389 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:53,389 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:53,389 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:53,389 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:04:53,390 - root - INFO - ****Opening URL****
+2023-07-10 19:04:53,390 - root - INFO - ****Opening URL****
+2023-07-10 19:04:53,390 - root - INFO - ****Opening URL****
+2023-07-10 19:04:53,390 - root - INFO - ****Opening URL****
+2023-07-10 19:04:53,390 - root - INFO - ****Opening URL****
+2023-07-10 19:04:53,390 - root - INFO - ****Opening URL****
+2023-07-10 19:05:59,516 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:05:59,516 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:05:59,516 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:05:59,516 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:05:59,516 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:05:59,516 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:05:59,516 - root - INFO - ****Opening URL****
+2023-07-10 19:05:59,516 - root - INFO - ****Opening URL****
+2023-07-10 19:05:59,516 - root - INFO - ****Opening URL****
+2023-07-10 19:05:59,516 - root - INFO - ****Opening URL****
+2023-07-10 19:05:59,516 - root - INFO - ****Opening URL****
+2023-07-10 19:05:59,516 - root - INFO - ****Opening URL****
+2023-07-10 19:09:01,512 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:09:01,512 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:09:01,512 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:09:01,512 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:09:01,512 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:09:01,512 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:09:01,514 - root - INFO - ****Opening URL****
+2023-07-10 19:09:01,514 - root - INFO - ****Opening URL****
+2023-07-10 19:09:01,514 - root - INFO - ****Opening URL****
+2023-07-10 19:09:01,514 - root - INFO - ****Opening URL****
+2023-07-10 19:09:01,514 - root - INFO - ****Opening URL****
+2023-07-10 19:09:01,514 - root - INFO - ****Opening URL****
+2023-07-10 19:10:13,966 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:13,966 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:13,966 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:13,966 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:13,966 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:13,966 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:13,968 - root - INFO - ****Opening URL****
+2023-07-10 19:10:13,968 - root - INFO - ****Opening URL****
+2023-07-10 19:10:13,968 - root - INFO - ****Opening URL****
+2023-07-10 19:10:13,968 - root - INFO - ****Opening URL****
+2023-07-10 19:10:13,968 - root - INFO - ****Opening URL****
+2023-07-10 19:10:13,968 - root - INFO - ****Opening URL****
+2023-07-10 19:10:48,691 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:48,691 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:48,691 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:48,691 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:48,691 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:48,691 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:10:48,694 - root - INFO - ****Opening URL****
+2023-07-10 19:10:48,694 - root - INFO - ****Opening URL****
+2023-07-10 19:10:48,694 - root - INFO - ****Opening URL****
+2023-07-10 19:10:48,694 - root - INFO - ****Opening URL****
+2023-07-10 19:10:48,694 - root - INFO - ****Opening URL****
+2023-07-10 19:10:48,694 - root - INFO - ****Opening URL****
+2023-07-10 19:11:41,899 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:11:41,899 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:11:41,899 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:11:41,899 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:11:41,899 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:11:41,899 - root - INFO - **** Started Connect Server test ****
+2023-07-10 19:11:41,900 - root - INFO - ****Opening URL****
+2023-07-10 19:11:41,900 - root - INFO - ****Opening URL****
+2023-07-10 19:11:41,900 - root - INFO - ****Opening URL****
+2023-07-10 19:11:41,900 - root - INFO - ****Opening URL****
+2023-07-10 19:11:41,900 - root - INFO - ****Opening URL****
+2023-07-10 19:11:41,900 - root - INFO - ****Opening URL****
+2023-07-11 14:14:08,387 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:14:08,387 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:14:08,387 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:14:08,387 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:14:08,387 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:14:08,387 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:14:08,389 - root - INFO - ****Opening URL****
+2023-07-11 14:14:08,389 - root - INFO - ****Opening URL****
+2023-07-11 14:14:08,389 - root - INFO - ****Opening URL****
+2023-07-11 14:14:08,389 - root - INFO - ****Opening URL****
+2023-07-11 14:14:08,389 - root - INFO - ****Opening URL****
+2023-07-11 14:14:08,389 - root - INFO - ****Opening URL****
+2023-07-11 14:20:46,447 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:20:46,447 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:20:46,447 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:20:46,447 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:20:46,447 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:20:46,447 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:20:46,449 - root - INFO - ****Opening URL****
+2023-07-11 14:20:46,449 - root - INFO - ****Opening URL****
+2023-07-11 14:20:46,449 - root - INFO - ****Opening URL****
+2023-07-11 14:20:46,449 - root - INFO - ****Opening URL****
+2023-07-11 14:20:46,449 - root - INFO - ****Opening URL****
+2023-07-11 14:20:46,449 - root - INFO - ****Opening URL****
+2023-07-11 14:21:13,001 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:13,001 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:13,001 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:13,001 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:13,001 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:13,001 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:13,003 - root - INFO - ****Opening URL****
+2023-07-11 14:21:13,003 - root - INFO - ****Opening URL****
+2023-07-11 14:21:13,003 - root - INFO - ****Opening URL****
+2023-07-11 14:21:13,003 - root - INFO - ****Opening URL****
+2023-07-11 14:21:13,003 - root - INFO - ****Opening URL****
+2023-07-11 14:21:13,003 - root - INFO - ****Opening URL****
+2023-07-11 14:21:23,909 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:23,909 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:23,909 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:23,909 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:23,909 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:23,909 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:21:23,910 - root - INFO - ****Opening URL****
+2023-07-11 14:21:23,910 - root - INFO - ****Opening URL****
+2023-07-11 14:21:23,910 - root - INFO - ****Opening URL****
+2023-07-11 14:21:23,910 - root - INFO - ****Opening URL****
+2023-07-11 14:21:23,910 - root - INFO - ****Opening URL****
+2023-07-11 14:21:23,910 - root - INFO - ****Opening URL****
+2023-07-11 14:22:57,704 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:22:57,704 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:22:57,704 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:22:57,704 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:22:57,704 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:22:57,704 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:22:57,705 - root - INFO - ****Opening URL****
+2023-07-11 14:22:57,705 - root - INFO - ****Opening URL****
+2023-07-11 14:22:57,705 - root - INFO - ****Opening URL****
+2023-07-11 14:22:57,705 - root - INFO - ****Opening URL****
+2023-07-11 14:22:57,705 - root - INFO - ****Opening URL****
+2023-07-11 14:22:57,705 - root - INFO - ****Opening URL****
+2023-07-11 14:24:18,517 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:18,517 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:18,517 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:18,517 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:18,517 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:18,517 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:18,518 - root - INFO - ****Opening URL****
+2023-07-11 14:24:18,518 - root - INFO - ****Opening URL****
+2023-07-11 14:24:18,518 - root - INFO - ****Opening URL****
+2023-07-11 14:24:18,518 - root - INFO - ****Opening URL****
+2023-07-11 14:24:18,518 - root - INFO - ****Opening URL****
+2023-07-11 14:24:18,518 - root - INFO - ****Opening URL****
+2023-07-11 14:24:51,339 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:51,339 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:51,339 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:51,339 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:51,339 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:51,339 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:24:51,340 - root - INFO - ****Opening URL****
+2023-07-11 14:24:51,340 - root - INFO - ****Opening URL****
+2023-07-11 14:24:51,340 - root - INFO - ****Opening URL****
+2023-07-11 14:24:51,340 - root - INFO - ****Opening URL****
+2023-07-11 14:24:51,340 - root - INFO - ****Opening URL****
+2023-07-11 14:24:51,340 - root - INFO - ****Opening URL****
+2023-07-11 14:28:27,752 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:28:27,752 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:28:27,752 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:28:27,752 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:28:27,752 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:28:27,752 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:28:27,754 - root - INFO - ****Opening URL****
+2023-07-11 14:28:27,754 - root - INFO - ****Opening URL****
+2023-07-11 14:28:27,754 - root - INFO - ****Opening URL****
+2023-07-11 14:28:27,754 - root - INFO - ****Opening URL****
+2023-07-11 14:28:27,754 - root - INFO - ****Opening URL****
+2023-07-11 14:28:27,754 - root - INFO - ****Opening URL****
+2023-07-11 14:43:39,152 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:43:39,152 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:43:39,152 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:43:39,152 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:43:39,152 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:43:39,152 - root - INFO - **** Started Connect Server test ****
+2023-07-11 14:43:39,153 - root - INFO - ****Opening URL****
+2023-07-11 14:43:39,153 - root - INFO - ****Opening URL****
+2023-07-11 14:43:39,153 - root - INFO - ****Opening URL****
+2023-07-11 14:43:39,153 - root - INFO - ****Opening URL****
+2023-07-11 14:43:39,153 - root - INFO - ****Opening URL****
+2023-07-11 14:43:39,153 - root - INFO - ****Opening URL****
+2023-07-11 15:26:30,491 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:26:30,491 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:26:30,491 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:26:30,491 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:26:30,491 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:26:30,491 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:26:30,492 - root - INFO - ****Opening URL****
+2023-07-11 15:26:30,492 - root - INFO - ****Opening URL****
+2023-07-11 15:26:30,492 - root - INFO - ****Opening URL****
+2023-07-11 15:26:30,492 - root - INFO - ****Opening URL****
+2023-07-11 15:26:30,492 - root - INFO - ****Opening URL****
+2023-07-11 15:26:30,492 - root - INFO - ****Opening URL****
+2023-07-11 15:31:40,077 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:31:40,077 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:31:40,077 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:31:40,077 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:31:40,077 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:31:40,077 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:31:40,078 - root - INFO - ****Opening URL****
+2023-07-11 15:31:40,078 - root - INFO - ****Opening URL****
+2023-07-11 15:31:40,078 - root - INFO - ****Opening URL****
+2023-07-11 15:31:40,078 - root - INFO - ****Opening URL****
+2023-07-11 15:31:40,078 - root - INFO - ****Opening URL****
+2023-07-11 15:31:40,078 - root - INFO - ****Opening URL****
+2023-07-11 15:37:19,258 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:37:19,258 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:37:19,258 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:37:19,258 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:37:19,258 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:37:19,258 - root - INFO - **** Started Connect Server test ****
+2023-07-11 15:37:19,259 - root - INFO - ****Opening URL****
+2023-07-11 15:37:19,259 - root - INFO - ****Opening URL****
+2023-07-11 15:37:19,259 - root - INFO - ****Opening URL****
+2023-07-11 15:37:19,259 - root - INFO - ****Opening URL****
+2023-07-11 15:37:19,259 - root - INFO - ****Opening URL****
+2023-07-11 15:37:19,259 - root - INFO - ****Opening URL****
