@@ -49,13 +49,13 @@ class PortalSignUp(unittest.TestCase):
         SignUpPage.set_up("HTTPS://LOCALHOST", "9263")
         SignUpPage.signup_page()
 
-        SignUpPage.enter_user_register_data("noni", "kazmi", "abc",
-                                            "noni", "nishakazmi@hotmail.com", "Astera123",
-                                            "Astera123")
+        SignUpPage.enter_user_register_data("aaa", "aaaa", "abc",
+                                            "fff", "nishom", "aaaa",
+                                            "aaaa")
 
-        #SignUpPage.enter_user_register_data("m", "Saad", "abc",
-        #                                    "mSaad", "mSaad@astera.com", "Astera123",
-        #                                    "Astera123")
+        #SignUpPage.enter_user_register_data("m", "aa", "abc",
+        #                                    "aa", "mSaad@astera.com", "aaaa",
+        #                                    "aaaa")
 
 
     def signup_via_file_success(self):
@@ -90,9 +90,9 @@ class PortalSignUp(unittest.TestCase):
         SignUpPage = page.SignUpPage(self.driver)
         #SignUpPage.set_up("HTTPS://LOCALHOST", "9263")
         #SignUpPage.signup_page()
-        SignUpPage.verification_signup_email("smtp-mail.outlook.com", "", "", 'SUBJECT "Astera Email Confirmation Link"')
+        SignUpPage.verification_signup_email("smtp-mail.outlook.com", "", "", 'SUBJECT "Email Confirmation Link"')
 
-        SignUpPage.verify_validate_signup("noni", "Astera123")
+        SignUpPage.verify_validate_signup("aaaa", "aaaaaa")
 
 
     def signup_verification_timetolive(self):
