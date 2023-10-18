@@ -49,9 +49,7 @@ class PortalSignUp(unittest.TestCase):
         SignUpPage.set_up("HTTPS://LOCALHOST", "9263")
         SignUpPage.signup_page()
 
-        SignUpPage.enter_user_register_data("aaa", "aaaa", "abc",
-                                            "fff", "nishom", "aaaa",
-                                            "aaaa")
+        SignUpPage.enter_user_register_data("username", "firstname", "lastname", "middlename", "emailaddress", "password", "confirmpassword")
 
         #SignUpPage.enter_user_register_data("m", "aa", "abc",
         #                                    "aa", "mSaad@astera.com", "aaaa",
@@ -81,7 +79,7 @@ class PortalSignUp(unittest.TestCase):
         SignUpPage = page.SignUpPage(self.driver)
         SignUpPage.set_up("HTTPS://LOCALHOST", "9263")
         SignUpPage.signup_page()
-        SignUpPage.verify_signup_fields("a", "a", "a", "a", "a", "a", "df")
+        SignUpPage.verify_signup_fields("username", "firstname", "lastname", "middlename", "emailaddress", "password", "confirmpassword")
 
 
     def test_signup_email_verification(self):
@@ -90,9 +88,10 @@ class PortalSignUp(unittest.TestCase):
         SignUpPage = page.SignUpPage(self.driver)
         #SignUpPage.set_up("HTTPS://LOCALHOST", "9263")
         #SignUpPage.signup_page()
-        SignUpPage.verification_signup_email("smtp-mail.outlook.com", "", "", 'SUBJECT "Email Confirmation Link"')
+        SignUpPage.verification_signup_email("imap-mail.outlook.com", "your_email@hotmail.com", "password",
+                                  'SUBJECT "Email Confirmation Link"')
 
-        SignUpPage.verify_validate_signup("aaaa", "aaaaaa")
+        SignUpPage.verify_validate_signup("username", "password")
 
 
     def signup_verification_timetolive(self):
@@ -109,7 +108,7 @@ class PortalSignUp(unittest.TestCase):
 
         # fetching and browsing the link from the email content
         SignUpPage.verification_signup_email("imap-mail.outlook.com", "your_email@hotmail.com", "password",
-                                  'SUBJECT "Astera Email Confirmation Link"')
+                                  'SUBJECT "Email Confirmation Link"')
 
 
 
