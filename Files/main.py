@@ -22,8 +22,8 @@ class PortalLogin(unittest.TestCase):
         self.driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
         #self.driver = webdriver.Chrome("C:\Program Files (x86)\chromedriver.exe")
         self.driver.get("http://vmqa516:9362/")
-        self.currentURL = "http://vmqa516:9362" #Making this dynamic
-        # http://localhost:9362/home and http://localhost:9362/login both URLs are not working yet.
+        self.currentURL = "http://vmqa516:9362"
+    
 
     def test_title(self):
 
