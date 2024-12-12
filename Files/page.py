@@ -13,8 +13,8 @@ from bs4 import BeautifulSoup
 import time
 from urllib.parse import urlparse
 
-# Each page deine inside class
-# All selenium testing logics goes here
+# Each page defined inside a class
+# All selenium testing logic goes here
 
 
 # All page classes inherit this
