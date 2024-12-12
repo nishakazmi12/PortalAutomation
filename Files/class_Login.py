@@ -26,7 +26,6 @@ class PortalLogin(unittest.TestCase):
         #self.driver = webdriver.Chrome(executable_path="C:\Program Files (x86)\chromedriver.exe")
         #self.driver = webdriver.Chrome("C:\Program Files (x86)\chromedriver.exe")
         self.driver.get("http://localhost:3000/")
-        # http://localhost:3000/home and http://localhost:3000/login both URLs are not working yet.
 
     def title(self):
 
