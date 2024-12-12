@@ -1,8 +1,8 @@
 from selenium.webdriver.common.by import By
 
 
-#All css id/class/name locator shoudl define in this file 
-#Each class has it's own locator
+#All locators should be defined in this file 
+#Each class has its own locator
 
 class LoginPageLocators(object):
     Port_Text_Box= (By.ID, "Port")
