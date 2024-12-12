@@ -102,7 +102,7 @@ class Test_002_Home:
         self.home_page_obj.click_on_swagger_button()
         time.sleep(2)
 
-        assert self.home_page_obj.perform_endpoint_call("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjEiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhZG1pbkBjZW50ZXJwcmlzZS5jb20iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJzdWIiOiJhZG1pbiIsImp0aSI6ImU2M2FjNTFhLTFlOTItNGE2My1hNzJiLWIyNWJkZjViMGVmNSIsImlhdCI6MTY4ODU0OTEyMSwicm9sIjoiYXBpX2FjY2VzcyIsImlkIjoiMSIsIm5iZiI6MTY4ODU0OTEyMCwiZXhwIjoxNjkxMTQxMTIwfQ.Gdozwdu5hXYJG5qF-ip9Kssl50hVLQ_gEoIDwUULKR0",
+        assert self.home_page_obj.perform_endpoint_call("Token",
                                                    "1") == "200"
 
    # @pytest.mark.subs
