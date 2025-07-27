@@ -28,7 +28,7 @@ This is a Python-based automated testing framework built using Selenium WebDrive
 ```
 
 ├── Configuration/       # Configuration files (URLs, credentials, env settings)
-├── Files/               # Auxiliary files used during tests
+├── Files/               # Alternate automation tests using unittest along with its requirements.txt file
 ├── Logs/                # Log files generated during test execution
 ├── Reports/             # Test execution reports (HTML, XML)
 ├── Screenshots/         # Screenshots captured on failures
